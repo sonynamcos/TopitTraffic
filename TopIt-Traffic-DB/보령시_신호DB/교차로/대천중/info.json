@@ -1,0 +1,47 @@
+{
+  "id": "21",
+  "name": "대천중",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "대천중.dat",
+    "original_filename": "24_대천중(한내초사거리).dat",
+    "size": 14784,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v2.1",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "대천중_주기표.xls",
+    "source_file": "21_30 신규.xls",
+    "sheet_name": "24_대천중"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "24_대천중(한내초사거리).dat"
+    ],
+    "selected": "24_대천중(한내초사거리).dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

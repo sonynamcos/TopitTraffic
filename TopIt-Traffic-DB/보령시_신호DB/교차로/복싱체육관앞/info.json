@@ -1,0 +1,47 @@
+{
+  "id": "68",
+  "name": "복싱체육관앞",
+  "alias": [],
+  "type": "단일로",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "복싱체육관앞.dat",
+    "original_filename": "106_복싱체육관앞.dat",
+    "size": 6321,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v0.0.1.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "복싱체육관앞_주기표.xls",
+    "source_file": "101~110.xls",
+    "sheet_name": "복싱체육관(old)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "106_복싱체육관앞.dat"
+    ],
+    "selected": "106_복싱체육관앞.dat",
+    "reason": "교차로명 부분 매칭 (유사도: 0.79, DAT: \"복싱체육관앞\" ↔ 주기표: \"복싱체육관\")",
+    "confidence": "low"
+  }
+}

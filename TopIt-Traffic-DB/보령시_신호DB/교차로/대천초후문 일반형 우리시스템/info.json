@@ -1,0 +1,43 @@
+{
+  "id": "107",
+  "name": "대천초후문 일반형 우리시스템",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": {
+    "filename": "대천초후문 일반형 우리시스템.dat",
+    "original_filename": "173_대천초후문 일반형 우리시스템.dat",
+    "size": 11608,
+    "manufacturer_detected": "unknown",
+    "format": "unknown",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "173_대천초후문 일반형 우리시스템.dat"
+    ],
+    "selected": "173_대천초후문 일반형 우리시스템.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

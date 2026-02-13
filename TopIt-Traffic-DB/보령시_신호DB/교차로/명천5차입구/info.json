@@ -1,0 +1,141 @@
+{
+  "id": "123",
+  "name": "명천5차입구",
+  "alias": [],
+  "type": "입구",
+  "manufacturer": "서돌전자(추정)",
+  "controller_model": "",
+  "dat": {
+    "filename": "명천5차입구.dat",
+    "original_filename": "191_명천5차입구.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자(추정)",
+    "format": "plain",
+    "date_modified": null,
+    "phone": null,
+    "phases": 3,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          80,
+          25,
+          15
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 150,
+        "offset": 30,
+        "splits": [
+          110,
+          25,
+          15
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 150,
+        "offset": 30,
+        "splits": [
+          110,
+          25,
+          15
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 150,
+        "offset": 30,
+        "splits": [
+          110,
+          25,
+          15
+        ],
+        "valid": true
+      },
+      {
+        "plan": 4,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          80,
+          25,
+          15
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "명천5차입구_주기표.xlsx",
+    "source_file": "명천5차입구 주기표.xlsx",
+    "sheet_name": "명천5차입구"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "191_명천5차입구 서240812.dat",
+      "191_명천5차입구 서240813.dat",
+      "191_명천5차입구.dat"
+    ],
+    "selected": "191_명천5차입구.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

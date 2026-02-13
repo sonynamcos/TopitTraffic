@@ -1,0 +1,1410 @@
+[
+  {
+    "code": "001",
+    "name": "죽림",
+    "node_cx": 243.7,
+    "node_cy": 78.2,
+    "name_cx": 249.1,
+    "name_cy": 77.7
+  },
+  {
+    "code": "002",
+    "name": "마동삼거리",
+    "node_cx": 243.7,
+    "node_cy": 109.4,
+    "name_cx": 249.1,
+    "name_cy": 103.5
+  },
+  {
+    "code": "003",
+    "name": "죽림리",
+    "node_cx": 243.7,
+    "node_cy": 139.4,
+    "name_cx": 249.1,
+    "name_cy": 137.1
+  },
+  {
+    "code": "004",
+    "name": "재정삼거리",
+    "node_cx": 243.7,
+    "node_cy": 172.8,
+    "name_cx": 249.1,
+    "name_cy": 166.9
+  },
+  {
+    "code": "005",
+    "name": "진죽사거리",
+    "node_cx": 243.7,
+    "node_cy": 245.0,
+    "name_cx": 249.1,
+    "name_cy": 239.1
+  },
+  {
+    "code": "006",
+    "name": "통남사거리",
+    "node_cx": 243.7,
+    "node_cy": 312.4,
+    "name_cx": 249.1,
+    "name_cy": 306.5
+  },
+  {
+    "code": "007",
+    "name": "마강삼거리",
+    "node_cx": 243.7,
+    "node_cy": 346.2,
+    "name_cx": 249.1,
+    "name_cy": 340.4
+  },
+  {
+    "code": "008",
+    "name": "주포사거리",
+    "node_cx": 243.8,
+    "node_cy": 382.6,
+    "name_cx": 249.2,
+    "name_cy": 376.7
+  },
+  {
+    "code": "009",
+    "name": "봉당삼거리",
+    "node_cx": 243.7,
+    "node_cy": 428.9,
+    "name_cx": 249.1,
+    "name_cy": 423.0
+  },
+  {
+    "code": "010",
+    "name": "아주대삼거리",
+    "node_cx": 229.7,
+    "node_cy": 428.9,
+    "name_cx": 235.1,
+    "name_cy": 421.2
+  },
+  {
+    "code": "011",
+    "name": "관산사거리",
+    "node_cx": 214.2,
+    "node_cy": 428.9,
+    "name_cx": 219.6,
+    "name_cy": 423.0
+  },
+  {
+    "code": "012",
+    "name": "충서로사거리",
+    "node_cx": 202.7,
+    "node_cy": 432.3,
+    "name_cx": 202.5,
+    "name_cy": 417.6
+  },
+  {
+    "code": "013",
+    "name": "주교사거리",
+    "node_cx": 183.9,
+    "node_cy": 429.3,
+    "name_cx": 189.3,
+    "name_cy": 423.0
+  },
+  {
+    "code": "014",
+    "name": "관창사거리",
+    "node_cx": 187.8,
+    "node_cy": 536.1,
+    "name_cx": 187.7,
+    "name_cy": 524.0
+  },
+  {
+    "code": "015",
+    "name": "정심원",
+    "node_cx": 201.1,
+    "node_cy": 536.1,
+    "name_cx": 201.0,
+    "name_cy": 527.6
+  },
+  {
+    "code": "016",
+    "name": "점촌사거리",
+    "node_cx": 214.4,
+    "node_cy": 536.1,
+    "name_cx": 214.3,
+    "name_cy": 524.0
+  },
+  {
+    "code": "017",
+    "name": "연기보신원",
+    "node_cx": 228.7,
+    "node_cy": 535.0,
+    "name_cx": 228.6,
+    "name_cy": 522.9
+  },
+  {
+    "code": "018",
+    "name": "신대사거리",
+    "node_cx": 258.2,
+    "node_cy": 535.0,
+    "name_cx": 258.1,
+    "name_cy": 522.9
+  },
+  {
+    "code": "021",
+    "name": "파레스",
+    "node_cx": 314.1,
+    "node_cy": 532.6,
+    "name_cx": 314.0,
+    "name_cy": 524.1
+  },
+  {
+    "code": "022",
+    "name": "신평사거리",
+    "node_cx": 343.4,
+    "node_cy": 533.2,
+    "name_cx": 348.8,
+    "name_cy": 527.3
+  },
+  {
+    "code": "023",
+    "name": "교",
+    "node_cx": 363.7,
+    "node_cy": 494.0,
+    "name_cx": 351.8,
+    "name_cy": 500.2
+  },
+  {
+    "code": "024",
+    "name": "대천중",
+    "node_cx": 439.7,
+    "node_cy": 641.0,
+    "name_cx": 445.1,
+    "name_cy": 638.3
+  },
+  {
+    "code": "025",
+    "name": "한내초",
+    "node_cx": 472.7,
+    "node_cy": 640.8,
+    "name_cx": 478.1,
+    "name_cy": 638.1
+  },
+  {
+    "code": "026",
+    "name": "시청삼거리",
+    "node_cx": 544.4,
+    "node_cy": 645.3,
+    "name_cx": 549.8,
+    "name_cy": 639.0
+  },
+  {
+    "code": "027",
+    "name": "명천삼거리",
+    "node_cx": 562.1,
+    "node_cy": 645.1,
+    "name_cx": 567.5,
+    "name_cy": 638.8
+  },
+  {
+    "code": "028",
+    "name": "우리공업사",
+    "node_cx": 586.5,
+    "node_cy": 644.7,
+    "name_cx": 591.9,
+    "name_cy": 638.8
+  },
+  {
+    "code": "030",
+    "name": "옥산주유소",
+    "node_cx": 635.7,
+    "node_cy": 645.2,
+    "name_cx": 641.1,
+    "name_cy": 639.8
+  },
+  {
+    "code": "033",
+    "name": "남포역",
+    "node_cx": 698.0,
+    "node_cy": 645.5,
+    "name_cx": 697.9,
+    "name_cy": 637.0
+  },
+  {
+    "code": "034",
+    "name": "남포삼거리",
+    "node_cx": 694.7,
+    "node_cy": 692.0,
+    "name_cx": 700.1,
+    "name_cy": 685.7
+  },
+  {
+    "code": "035",
+    "name": "남포초",
+    "node_cx": 693.7,
+    "node_cy": 775.1,
+    "name_cx": 700.2,
+    "name_cy": 772.4
+  },
+  {
+    "code": "036",
+    "name": "웅천초등",
+    "node_cx": 697.9,
+    "node_cy": 921.8,
+    "name_cx": 697.8,
+    "name_cy": 911.4
+  },
+  {
+    "code": "037",
+    "name": "웅천교",
+    "node_cx": 697.7,
+    "node_cy": 975.5,
+    "name_cx": 697.5,
+    "name_cy": 967.0
+  },
+  {
+    "code": "038",
+    "name": "대창사거리",
+    "node_cx": 665.1,
+    "node_cy": 977.0,
+    "name_cx": 665.0,
+    "name_cy": 964.8
+  },
+  {
+    "code": "039",
+    "name": "대창삼거리",
+    "node_cx": 636.9,
+    "node_cy": 977.0,
+    "name_cx": 636.8,
+    "name_cy": 964.8
+  },
+  {
+    "code": "040",
+    "name": "주산초등",
+    "node_cx": 568.5,
+    "node_cy": 982.4,
+    "name_cx": 568.4,
+    "name_cy": 972.0
+  },
+  {
+    "code": "041",
+    "name": "소양삼거리",
+    "node_cx": 390.5,
+    "node_cy": 83.9,
+    "name_cx": 395.9,
+    "name_cy": 78.0
+  },
+  {
+    "code": "042",
+    "name": "청라중",
+    "node_cx": 390.5,
+    "node_cy": 108.5,
+    "name_cx": 395.9,
+    "name_cy": 106.2
+  },
+  {
+    "code": "043",
+    "name": "청보초",
+    "node_cx": 390.5,
+    "node_cy": 131.6,
+    "name_cx": 395.9,
+    "name_cy": 129.3
+  },
+  {
+    "code": "044",
+    "name": "고인돌",
+    "node_cx": 390.5,
+    "node_cy": 213.5,
+    "name_cx": 395.9,
+    "name_cy": 211.2
+  },
+  {
+    "code": "045",
+    "name": "화산사거",
+    "node_cx": 387.5,
+    "node_cy": 242.6,
+    "name_cx": 392.9,
+    "name_cy": 238.5
+  },
+  {
+    "code": "046",
+    "name": "보령",
+    "node_cx": 388.3,
+    "node_cy": 266.0,
+    "name_cx": 393.7,
+    "name_cy": 265.5
+  },
+  {
+    "code": "047",
+    "name": "신설사거리",
+    "node_cx": 390.5,
+    "node_cy": 391.7,
+    "name_cx": 395.9,
+    "name_cy": 385.8
+  },
+  {
+    "code": "048",
+    "name": "신설회관",
+    "node_cx": 393.8,
+    "node_cy": 425.1,
+    "name_cx": 393.7,
+    "name_cy": 414.8
+  },
+  {
+    "code": "049",
+    "name": "동대사거",
+    "node_cx": 387.5,
+    "node_cy": 486.3,
+    "name_cx": 392.9,
+    "name_cy": 482.2
+  },
+  {
+    "code": "053",
+    "name": "터미널",
+    "node_cx": 390.7,
+    "node_cy": 752.4,
+    "name_cx": 396.1,
+    "name_cy": 749.7
+  },
+  {
+    "code": "054",
+    "name": "대천역사거리",
+    "node_cx": 529.8,
+    "node_cy": 789.8,
+    "name_cx": 529.7,
+    "name_cy": 775.8
+  },
+  {
+    "code": "055",
+    "name": "대천여상",
+    "node_cx": 526.4,
+    "node_cy": 851.6,
+    "name_cx": 531.8,
+    "name_cy": 847.5
+  },
+  {
+    "code": "056",
+    "name": "남곡사거리",
+    "node_cx": 529.8,
+    "node_cy": 939.2,
+    "name_cx": 529.7,
+    "name_cy": 927.0
+  },
+  {
+    "code": "057",
+    "name": "대천",
+    "node_cx": 526.4,
+    "node_cy": 964.2,
+    "name_cx": 531.8,
+    "name_cy": 963.8
+  },
+  {
+    "code": "058",
+    "name": "백두산주유소",
+    "node_cx": 529.8,
+    "node_cy": 1087.0,
+    "name_cx": 529.7,
+    "name_cy": 1073.1
+  },
+  {
+    "code": "059",
+    "name": "후동삼거리",
+    "node_cx": 523.8,
+    "node_cy": 1130.9,
+    "name_cx": 529.2,
+    "name_cy": 1125.0
+  },
+  {
+    "code": "060",
+    "name": "삼현입구",
+    "node_cx": 370.7,
+    "node_cy": 1128.9,
+    "name_cx": 376.1,
+    "name_cy": 1124.8
+  },
+  {
+    "code": "061",
+    "name": "해망산",
+    "node_cx": 360.6,
+    "node_cy": 1129.0,
+    "name_cx": 360.5,
+    "name_cy": 1120.5
+  },
+  {
+    "code": "062",
+    "name": "흑포삼거리",
+    "node_cx": 244.3,
+    "node_cy": 1107.0,
+    "name_cx": 249.7,
+    "name_cy": 1101.2
+  },
+  {
+    "code": "063",
+    "name": "서부수협주유소",
+    "node_cx": 247.5,
+    "node_cy": 1075.0,
+    "name_cx": 247.4,
+    "name_cy": 1059.3
+  },
+  {
+    "code": "064",
+    "name": "됫박산사거리",
+    "node_cx": 244.3,
+    "node_cy": 1023.6,
+    "name_cx": 249.7,
+    "name_cy": 1016.0
+  },
+  {
+    "code": "065",
+    "name": "갓배사거리",
+    "node_cx": 215.3,
+    "node_cy": 1023.5,
+    "name_cx": 215.1,
+    "name_cy": 1011.4
+  },
+  {
+    "code": "066",
+    "name": "고잠사거리",
+    "node_cx": 272.6,
+    "node_cy": 1023.6,
+    "name_cx": 272.5,
+    "name_cy": 1011.5
+  },
+  {
+    "code": "067",
+    "name": "신광장",
+    "node_cx": 247.7,
+    "node_cy": 979.2,
+    "name_cx": 247.5,
+    "name_cy": 970.7
+  },
+  {
+    "code": "068",
+    "name": "정수장",
+    "node_cx": 228.1,
+    "node_cy": 1023.5,
+    "name_cx": 228.0,
+    "name_cy": 1015.0
+  },
+  {
+    "code": "069",
+    "name": "청파초등학교",
+    "node_cx": 309.5,
+    "node_cy": 979.6,
+    "name_cx": 314.9,
+    "name_cy": 971.9
+  },
+  {
+    "code": "070",
+    "name": "여객터미날",
+    "node_cx": 352.4,
+    "node_cy": 979.2,
+    "name_cx": 352.3,
+    "name_cy": 967.1
+  },
+  {
+    "code": "071",
+    "name": "개화초등",
+    "node_cx": 688.7,
+    "node_cy": 407.8,
+    "name_cx": 694.1,
+    "name_cy": 403.7
+  },
+  {
+    "code": "072",
+    "name": "도화담삼거리",
+    "node_cx": 649.2,
+    "node_cy": 189.2,
+    "name_cx": 654.6,
+    "name_cy": 181.5
+  },
+  {
+    "code": "073",
+    "name": "미산우체",
+    "node_cx": 646.1,
+    "node_cy": 235.0,
+    "name_cx": 651.5,
+    "name_cy": 230.9
+  },
+  {
+    "code": "074",
+    "name": "개화삼거",
+    "node_cx": 704.3,
+    "node_cy": 408.2,
+    "name_cx": 709.7,
+    "name_cy": 404.1
+  },
+  {
+    "code": "075",
+    "name": "성주삼거리",
+    "node_cx": 648.6,
+    "node_cy": 407.1,
+    "name_cx": 654.0,
+    "name_cy": 401.2
+  },
+  {
+    "code": "076",
+    "name": "성주터널",
+    "node_cx": 600.3,
+    "node_cy": 406.5,
+    "name_cx": 605.7,
+    "name_cy": 402.4
+  },
+  {
+    "code": "077",
+    "name": "원당",
+    "node_cx": 581.3,
+    "node_cy": 408.3,
+    "name_cx": 581.1,
+    "name_cy": 401.6
+  },
+  {
+    "code": "078",
+    "name": "하만삼거리",
+    "node_cx": 191.7,
+    "node_cy": 180.2,
+    "name_cx": 197.1,
+    "name_cy": 174.3
+  },
+  {
+    "code": "079",
+    "name": "천북초등",
+    "node_cx": 191.5,
+    "node_cy": 110.0,
+    "name_cx": 196.9,
+    "name_cy": 105.9
+  },
+  {
+    "code": "080",
+    "name": "진등삼거리",
+    "node_cx": 639.0,
+    "node_cy": 815.8,
+    "name_cx": 644.4,
+    "name_cy": 809.9
+  },
+  {
+    "code": "081",
+    "name": "무창포",
+    "node_cx": 663.5,
+    "node_cy": 814.7,
+    "name_cx": 668.9,
+    "name_cy": 812.4
+  },
+  {
+    "code": "082",
+    "name": "대농사거리",
+    "node_cx": 681.8,
+    "node_cy": 189.4,
+    "name_cx": 681.7,
+    "name_cy": 177.3
+  },
+  {
+    "code": "083",
+    "name": "청소초등",
+    "node_cx": 264.5,
+    "node_cy": 275.7,
+    "name_cx": 264.3,
+    "name_cy": 265.4
+  },
+  {
+    "code": "084",
+    "name": "명천교차로",
+    "node_cx": 654.8,
+    "node_cy": 524.4,
+    "name_cx": 660.2,
+    "name_cy": 518.1
+  },
+  {
+    "code": "085",
+    "name": "대명중",
+    "node_cx": 557.1,
+    "node_cy": 465.9,
+    "name_cx": 557.0,
+    "name_cy": 457.4
+  },
+  {
+    "code": "086",
+    "name": "한내사거리",
+    "node_cx": 440.6,
+    "node_cy": 487.7,
+    "name_cx": 446.0,
+    "name_cy": 481.8
+  },
+  {
+    "code": "087",
+    "name": "주공아파트",
+    "node_cx": 466.8,
+    "node_cy": 428.9,
+    "name_cx": 472.2,
+    "name_cy": 423.0
+  },
+  {
+    "code": "088",
+    "name": "원평사거리",
+    "node_cx": 466.8,
+    "node_cy": 392.6,
+    "name_cx": 472.2,
+    "name_cy": 386.7
+  },
+  {
+    "code": "089",
+    "name": "주공삼거리",
+    "node_cx": 520.3,
+    "node_cy": 392.6,
+    "name_cx": 525.7,
+    "name_cy": 386.7
+  },
+  {
+    "code": "090",
+    "name": "신평교",
+    "node_cx": 346.8,
+    "node_cy": 427.5,
+    "name_cx": 346.7,
+    "name_cy": 419.0
+  },
+  {
+    "code": "091",
+    "name": "죽정사거리",
+    "node_cx": 343.4,
+    "node_cy": 361.6,
+    "name_cx": 348.8,
+    "name_cy": 355.7
+  },
+  {
+    "code": "092",
+    "name": "죽정주공",
+    "node_cx": 331.1,
+    "node_cy": 361.6,
+    "name_cx": 330.9,
+    "name_cy": 351.3
+  },
+  {
+    "code": "093",
+    "name": "중앙",
+    "node_cx": 312.6,
+    "node_cy": 361.6,
+    "name_cx": 318.0,
+    "name_cy": 361.1
+  },
+  {
+    "code": "095",
+    "name": "명암교차로",
+    "node_cx": 531.7,
+    "node_cy": 458.4,
+    "name_cx": 538.2,
+    "name_cy": 458.4
+  },
+  {
+    "code": "096",
+    "name": "이마트삼거리",
+    "node_cx": 377.0,
+    "node_cy": 833.3,
+    "name_cx": 376.9,
+    "name_cy": 819.4
+  },
+  {
+    "code": "097",
+    "name": "이마트사거리",
+    "node_cx": 401.1,
+    "node_cy": 833.3,
+    "name_cx": 401.0,
+    "name_cy": 819.4
+  },
+  {
+    "code": "098",
+    "name": "대천역앞",
+    "node_cx": 397.8,
+    "node_cy": 872.8,
+    "name_cx": 403.2,
+    "name_cy": 868.7
+  },
+  {
+    "code": "099",
+    "name": "현강주유소",
+    "node_cx": 456.3,
+    "node_cy": 753.6,
+    "name_cx": 461.7,
+    "name_cy": 747.3
+  },
+  {
+    "code": "100",
+    "name": "재석리",
+    "node_cx": 562.2,
+    "node_cy": 751.3,
+    "name_cx": 567.6,
+    "name_cy": 748.6
+  },
+  {
+    "code": "101",
+    "name": "남대천",
+    "node_cx": 376.8,
+    "node_cy": 753.0,
+    "name_cx": 376.7,
+    "name_cy": 744.5
+  },
+  {
+    "code": "102",
+    "name": "구시사거리",
+    "node_cx": 358.5,
+    "node_cy": 752.8,
+    "name_cx": 363.9,
+    "name_cy": 746.9
+  },
+  {
+    "code": "103",
+    "name": "대천여고",
+    "node_cx": 254.7,
+    "node_cy": 667.1,
+    "name_cx": 260.1,
+    "name_cy": 663.0
+  },
+  {
+    "code": "104",
+    "name": "코리아휠앞",
+    "node_cx": 200.7,
+    "node_cy": 641.8,
+    "name_cx": 200.6,
+    "name_cy": 629.7
+  },
+  {
+    "code": "105",
+    "name": "경찰서",
+    "node_cx": 346.8,
+    "node_cy": 625.4,
+    "name_cx": 346.7,
+    "name_cy": 616.9
+  },
+  {
+    "code": "106",
+    "name": "복싱체육관",
+    "node_cx": 343.4,
+    "node_cy": 395.0,
+    "name_cx": 348.8,
+    "name_cy": 389.1
+  },
+  {
+    "code": "107",
+    "name": "마강들",
+    "node_cx": 219.6,
+    "node_cy": 381.2,
+    "name_cx": 219.5,
+    "name_cy": 372.6
+  },
+  {
+    "code": "108",
+    "name": "관창초등",
+    "node_cx": 184.2,
+    "node_cy": 461.2,
+    "name_cx": 189.6,
+    "name_cy": 457.1
+  },
+  {
+    "code": "109",
+    "name": "관창초등",
+    "node_cx": 184.2,
+    "node_cy": 492.9,
+    "name_cx": 189.6,
+    "name_cy": 488.8
+  },
+  {
+    "code": "110",
+    "name": "명천초",
+    "node_cx": 527.7,
+    "node_cy": 527.8,
+    "name_cx": 533.1,
+    "name_cy": 525.5
+  },
+  {
+    "code": "111",
+    "name": "주공후문",
+    "node_cx": 523.7,
+    "node_cy": 428.9,
+    "name_cx": 523.5,
+    "name_cy": 418.6
+  },
+  {
+    "code": "112",
+    "name": "홈플러스",
+    "node_cx": 538.9,
+    "node_cy": 428.9,
+    "name_cx": 538.8,
+    "name_cy": 418.6
+  },
+  {
+    "code": "113",
+    "name": "남포중",
+    "node_cx": 661.7,
+    "node_cy": 773.6,
+    "name_cx": 667.1,
+    "name_cy": 771.3
+  },
+  {
+    "code": "114",
+    "name": "비체팰리스",
+    "node_cx": 611.6,
+    "node_cy": 815.8,
+    "name_cx": 617.0,
+    "name_cy": 809.9
+  },
+  {
+    "code": "115",
+    "name": "시영아파트",
+    "node_cx": 339.1,
+    "node_cy": 979.6,
+    "name_cx": 339.0,
+    "name_cy": 967.5
+  },
+  {
+    "code": "116",
+    "name": "삼성리조트",
+    "node_cx": 619.8,
+    "node_cy": 533.0,
+    "name_cx": 625.2,
+    "name_cy": 527.1
+  },
+  {
+    "code": "117",
+    "name": "대천여중",
+    "node_cx": 330.7,
+    "node_cy": 532.6,
+    "name_cx": 330.6,
+    "name_cy": 522.3
+  },
+  {
+    "code": "118",
+    "name": "죽정빠리바게트",
+    "node_cx": 297.3,
+    "node_cy": 367.0,
+    "name_cx": 302.7,
+    "name_cy": 357.2
+  },
+  {
+    "code": "119",
+    "name": "대천리조트",
+    "node_cx": 620.7,
+    "node_cy": 452.6,
+    "name_cx": 626.1,
+    "name_cy": 446.7
+  },
+  {
+    "code": "120",
+    "name": "요양병원",
+    "node_cx": 374.5,
+    "node_cy": 643.7,
+    "name_cx": 374.4,
+    "name_cy": 633.4
+  },
+  {
+    "code": "121",
+    "name": "공영주차장",
+    "node_cx": 272.6,
+    "node_cy": 979.2,
+    "name_cx": 272.5,
+    "name_cy": 967.1
+  },
+  {
+    "code": "122",
+    "name": "충남해양고",
+    "node_cx": 286.4,
+    "node_cy": 979.2,
+    "name_cx": 286.3,
+    "name_cy": 967.1
+  },
+  {
+    "code": "123",
+    "name": "머드광장전입",
+    "node_cx": 296.3,
+    "node_cy": 979.6,
+    "name_cx": 301.7,
+    "name_cy": 971.9
+  },
+  {
+    "code": "124",
+    "name": "청소농공단",
+    "node_cx": 240.7,
+    "node_cy": 278.6,
+    "name_cx": 246.1,
+    "name_cy": 272.7
+  },
+  {
+    "code": "125",
+    "name": "보령모텔",
+    "node_cx": 390.5,
+    "node_cy": 359.4,
+    "name_cx": 395.9,
+    "name_cy": 355.4
+  },
+  {
+    "code": "126",
+    "name": "청라향천리",
+    "node_cx": 415.3,
+    "node_cy": 162.4,
+    "name_cx": 420.7,
+    "name_cy": 156.5
+  },
+  {
+    "code": "127",
+    "name": "만남의광장",
+    "node_cx": 390.5,
+    "node_cy": 162.9,
+    "name_cx": 395.9,
+    "name_cy": 157.0
+  },
+  {
+    "code": "128",
+    "name": "스마트",
+    "node_cx": 385.7,
+    "node_cy": 518.0,
+    "name_cx": 392.8,
+    "name_cy": 514.4
+  },
+  {
+    "code": "129",
+    "name": "지장사입구",
+    "node_cx": 529.8,
+    "node_cy": 1044.3,
+    "name_cx": 529.7,
+    "name_cy": 1032.2
+  },
+  {
+    "code": "130",
+    "name": "평신삼거리",
+    "node_cx": 535.5,
+    "node_cy": 392.6,
+    "name_cx": 540.9,
+    "name_cy": 386.7
+  },
+  {
+    "code": "131",
+    "name": "중부발전소사옥",
+    "node_cx": 297.3,
+    "node_cy": 537.6,
+    "name_cx": 302.7,
+    "name_cy": 528.2
+  },
+  {
+    "code": "132",
+    "name": "한성필하우스",
+    "node_cx": 466.8,
+    "node_cy": 356.3,
+    "name_cx": 472.2,
+    "name_cy": 348.6
+  },
+  {
+    "code": "133",
+    "name": "남포지구대",
+    "node_cx": 694.5,
+    "node_cy": 737.1,
+    "name_cx": 699.9,
+    "name_cy": 731.2
+  },
+  {
+    "code": "134",
+    "name": "대천리삼거리",
+    "node_cx": 694.7,
+    "node_cy": 867.8,
+    "name_cx": 700.1,
+    "name_cy": 859.8
+  },
+  {
+    "code": "135",
+    "name": "대천",
+    "node_cx": 391.2,
+    "node_cy": 330.6,
+    "name_cx": 396.0,
+    "name_cy": 330.9
+  },
+  {
+    "code": "136",
+    "name": "청룡초교",
+    "node_cx": 342.8,
+    "node_cy": 1129.0,
+    "name_cx": 348.2,
+    "name_cy": 1124.9
+  },
+  {
+    "code": "137",
+    "name": "오천면영보",
+    "node_cx": 313.4,
+    "node_cy": 842.3,
+    "name_cx": 318.8,
+    "name_cy": 836.4
+  },
+  {
+    "code": "139",
+    "name": "고정교차로",
+    "node_cx": 316.4,
+    "node_cy": 806.3,
+    "name_cx": 321.8,
+    "name_cy": 800.4
+  },
+  {
+    "code": "140",
+    "name": "요암농공단지",
+    "node_cx": 526.4,
+    "node_cy": 1002.7,
+    "name_cx": 531.8,
+    "name_cy": 994.6
+  },
+  {
+    "code": "141",
+    "name": "대천장례식장",
+    "node_cx": 526.4,
+    "node_cy": 892.1,
+    "name_cx": 531.8,
+    "name_cy": 884.4
+  },
+  {
+    "code": "142",
+    "name": "대대",
+    "node_cx": 526.4,
+    "node_cy": 820.0,
+    "name_cx": 531.8,
+    "name_cy": 817.4
+  },
+  {
+    "code": "143",
+    "name": "성주터널전",
+    "node_cx": 621.9,
+    "node_cy": 406.7,
+    "name_cx": 627.3,
+    "name_cy": 400.8
+  },
+  {
+    "code": "144",
+    "name": "명천",
+    "node_cx": 522.6,
+    "node_cy": 493.3,
+    "name_cx": 528.0,
+    "name_cy": 492.4
+  },
+  {
+    "code": "145",
+    "name": "내평삼거리",
+    "node_cx": 700.8,
+    "node_cy": 234.5,
+    "name_cx": 706.2,
+    "name_cy": 228.6
+  },
+  {
+    "code": "146",
+    "name": "매매상가앞",
+    "node_cx": 243.0,
+    "node_cy": 535.0,
+    "name_cx": 242.9,
+    "name_cy": 522.6
+  },
+  {
+    "code": "147",
+    "name": "대천천막",
+    "node_cx": 390.5,
+    "node_cy": 455.0,
+    "name_cx": 395.9,
+    "name_cy": 450.9
+  },
+  {
+    "code": "148",
+    "name": "동대초",
+    "node_cx": 470.1,
+    "node_cy": 283.7,
+    "name_cx": 470.0,
+    "name_cy": 275.2
+  },
+  {
+    "code": "149",
+    "name": "센트럴파크",
+    "node_cx": 466.8,
+    "node_cy": 248.3,
+    "name_cx": 472.2,
+    "name_cy": 242.4
+  },
+  {
+    "code": "150",
+    "name": "대천초등학",
+    "node_cx": 340.3,
+    "node_cy": 498.9,
+    "name_cx": 345.7,
+    "name_cy": 493.0
+  },
+  {
+    "code": "151",
+    "name": "두러뫼교차로",
+    "node_cx": 390.6,
+    "node_cy": 300.9,
+    "name_cx": 395.3,
+    "name_cy": 294.4
+  },
+  {
+    "code": "152",
+    "name": "(미확인)",
+    "node_cx": 429.0,
+    "node_cy": 265.0,
+    "name_cx": null,
+    "name_cy": null
+  },
+  {
+    "code": "153",
+    "name": "르아모교차",
+    "node_cx": 464.0,
+    "node_cy": 205.3,
+    "name_cx": 469.4,
+    "name_cy": 199.0
+  },
+  {
+    "code": "154",
+    "name": "주유소",
+    "node_cx": 330.5,
+    "node_cy": 752.8,
+    "name_cx": 335.9,
+    "name_cy": 746.9
+  },
+  {
+    "code": "155",
+    "name": "입구삼거리",
+    "node_cx": 243.9,
+    "node_cy": 209.3,
+    "name_cx": 249.9,
+    "name_cy": 203.4
+  },
+  {
+    "code": "156",
+    "name": "농협주유소",
+    "node_cx": 316.8,
+    "node_cy": 752.8,
+    "name_cx": 322.2,
+    "name_cy": 746.9
+  },
+  {
+    "code": "161",
+    "name": "기아자동차",
+    "node_cx": 373.2,
+    "node_cy": 488.1,
+    "name_cx": 378.6,
+    "name_cy": 482.2
+  },
+  {
+    "code": "162",
+    "name": "축협",
+    "node_cx": 477.9,
+    "node_cy": 511.8,
+    "name_cx": 483.3,
+    "name_cy": 511.4
+  },
+  {
+    "code": "163",
+    "name": "해양경찰",
+    "node_cx": 542.8,
+    "node_cy": 542.9,
+    "name_cx": 547.1,
+    "name_cy": 539.7
+  },
+  {
+    "code": "164",
+    "name": "해경입구삼거",
+    "node_cx": 564.1,
+    "node_cy": 537.7,
+    "name_cx": 568.3,
+    "name_cy": 531.5
+  },
+  {
+    "code": "165",
+    "name": "주산정곡발명센터",
+    "node_cx": 595.3,
+    "node_cy": 1071.6,
+    "name_cx": 595.2,
+    "name_cy": 1053.8
+  },
+  {
+    "code": "166",
+    "name": "화산고",
+    "node_cx": 387.5,
+    "node_cy": 188.7,
+    "name_cx": 392.9,
+    "name_cy": 186.4
+  },
+  {
+    "code": "167",
+    "name": "마강",
+    "node_cx": 195.1,
+    "node_cy": 387.9,
+    "name_cx": 195.0,
+    "name_cy": 381.2
+  },
+  {
+    "code": "168",
+    "name": "아이꿈터어린이",
+    "node_cx": 496.3,
+    "node_cy": 203.7,
+    "name_cx": 501.7,
+    "name_cy": 194.2
+  },
+  {
+    "code": "169",
+    "name": "원산교차로",
+    "node_cx": 385.5,
+    "node_cy": 1037.7,
+    "name_cx": 385.4,
+    "name_cy": 1025.6
+  },
+  {
+    "code": "170",
+    "name": "원의교차로",
+    "node_cx": 401.1,
+    "node_cy": 1037.7,
+    "name_cx": 401.0,
+    "name_cy": 1025.6
+  },
+  {
+    "code": "171",
+    "name": "동대초정문",
+    "node_cx": 466.8,
+    "node_cy": 318.2,
+    "name_cx": 472.2,
+    "name_cy": 312.3
+  },
+  {
+    "code": "172",
+    "name": "대남초등",
+    "node_cx": 327.3,
+    "node_cy": 625.1,
+    "name_cx": 332.7,
+    "name_cy": 621.0
+  },
+  {
+    "code": "173",
+    "name": "대천초후문",
+    "node_cx": 346.8,
+    "node_cy": 466.1,
+    "name_cx": 346.7,
+    "name_cy": 453.7
+  },
+  {
+    "code": "174",
+    "name": "선촌교차로",
+    "node_cx": 417.3,
+    "node_cy": 1037.7,
+    "name_cx": 417.2,
+    "name_cy": 1025.6
+  },
+  {
+    "code": "175",
+    "name": "진명식당",
+    "node_cx": 325.9,
+    "node_cy": 979.6,
+    "name_cx": 325.8,
+    "name_cy": 969.3
+  },
+  {
+    "code": "176",
+    "name": "한촌설렁탕",
+    "node_cx": 344.6,
+    "node_cy": 752.8,
+    "name_cx": 350.0,
+    "name_cy": 746.9
+  },
+  {
+    "code": "178",
+    "name": "꼬마숲별샘",
+    "node_cx": 421.8,
+    "node_cy": 728.0,
+    "name_cx": 427.2,
+    "name_cy": 721.7
+  },
+  {
+    "code": "179",
+    "name": "성주어린이집",
+    "node_cx": 663.6,
+    "node_cy": 362.2,
+    "name_cx": 669.0,
+    "name_cy": 354.2
+  },
+  {
+    "code": "180",
+    "name": "대관초등학교",
+    "node_cx": 286.8,
+    "node_cy": 537.6,
+    "name_cx": 286.7,
+    "name_cy": 523.7
+  },
+  {
+    "code": "181",
+    "name": "죽도교차로",
+    "node_cx": 198.8,
+    "node_cy": 1023.3,
+    "name_cx": 204.2,
+    "name_cy": 1017.4
+  },
+  {
+    "code": "182",
+    "name": "명천사거리",
+    "node_cx": 555.8,
+    "node_cy": 407.4,
+    "name_cx": 561.2,
+    "name_cy": 401.6
+  },
+  {
+    "code": "183",
+    "name": "신촌마을입",
+    "node_cx": 602.5,
+    "node_cy": 644.3,
+    "name_cx": 607.9,
+    "name_cy": 638.4
+  },
+  {
+    "code": "184",
+    "name": "칸타빌사거",
+    "node_cx": 512.5,
+    "node_cy": 644.5,
+    "name_cx": 517.9,
+    "name_cy": 638.2
+  },
+  {
+    "code": "185",
+    "name": "칸타빌입구",
+    "node_cx": 528.6,
+    "node_cy": 678.1,
+    "name_cx": 534.0,
+    "name_cy": 671.8
+  },
+  {
+    "code": "186",
+    "name": "칸타빌",
+    "node_cx": 457.5,
+    "node_cy": 684.2,
+    "name_cx": 462.9,
+    "name_cy": 681.5
+  },
+  {
+    "code": "187",
+    "name": "성주",
+    "node_cx": 670.8,
+    "node_cy": 407.6,
+    "name_cx": 675.6,
+    "name_cy": 407.4
+  },
+  {
+    "code": "188",
+    "name": "다사랑앞",
+    "node_cx": 414.9,
+    "node_cy": 486.8,
+    "name_cx": 420.3,
+    "name_cy": 482.7
+  },
+  {
+    "code": "189",
+    "name": "차이나유앞",
+    "node_cx": 359.6,
+    "node_cy": 684.1,
+    "name_cx": 365.0,
+    "name_cy": 677.5
+  },
+  {
+    "code": "193",
+    "name": "보령시청정문앞",
+    "node_cx": 585.6,
+    "node_cy": 531.9,
+    "name_cx": 589.8,
+    "name_cy": 524.3
+  },
+  {
+    "code": "195",
+    "name": "보령시청후문앞",
+    "node_cx": 604.2,
+    "node_cy": 529.1,
+    "name_cx": 608.4,
+    "name_cy": 521.6
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "id": "7",
+  "name": "통남사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "통남사거리.dat",
+    "original_filename": "6_통남사거리.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-06-02",
+    "phone": "031-901-5120",
+    "phases": 2,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 140,
+        "offset": 20,
+        "splits": [
+          113,
+          27
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "통남사거리_주기표.xls",
+    "source_file": "보령비보호 주기표.xls",
+    "sheet_name": "통남삼거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "6_통남사거리.dat",
+      "6_통남사거리(old).dat"
+    ],
+    "selected": "6_통남사거리.dat",
+    "reason": "교차로명 유사 매칭 (유사도: 0.80, DAT: \"통남사거리\" ↔ 주기표: \"통남삼거리\")",
+    "confidence": "medium"
+  }
+}

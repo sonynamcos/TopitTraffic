@@ -1,0 +1,35 @@
+{
+  "id": "186",
+  "name": "맷독교차로",
+  "alias": [],
+  "type": "교차로",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": null,
+  "cycle_table": {
+    "filename": "맷독교차로_주기표.xls",
+    "source_file": "191_200 신규.xls",
+    "sheet_name": "맷독교차로"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [],
+    "selected": "",
+    "reason": "DAT 파일 없음 (주기표만 존재)",
+    "confidence": "low"
+  }
+}

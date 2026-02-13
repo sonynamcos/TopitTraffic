@@ -1,0 +1,96 @@
+{
+  "id": "13",
+  "name": "주교사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "주교사거리.dat",
+    "original_filename": "13_주교사거리.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-06-02",
+    "phone": "031-901-5120",
+    "phases": 3,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 0,
+        "splits": [
+          107,
+          23,
+          20
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "주교사거리_주기표.xls",
+    "source_file": "보령표준.xls",
+    "sheet_name": "주교사거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "13_주교사거리.dat",
+      "13_주교사거리(old).dat"
+    ],
+    "selected": "13_주교사거리.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

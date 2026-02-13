@@ -1,0 +1,91 @@
+{
+  "id": "64",
+  "name": "제석리",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "제석리.dat",
+    "original_filename": "100_제석리4R.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-01-11",
+    "phone": "031-901-5120",
+    "phases": 3,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 102,
+        "splits": [
+          90,
+          32,
+          28
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "100_제석리4R.dat"
+    ],
+    "selected": "100_제석리4R.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

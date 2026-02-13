@@ -1,0 +1,47 @@
+{
+  "id": "52",
+  "name": "됫박산교차로",
+  "alias": [],
+  "type": "교차로",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "됫박산교차로.dat",
+    "original_filename": "64_됫박산교차로.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "됫박산교차로_주기표.xls",
+    "source_file": "32_됫박산교차로(064).xls",
+    "sheet_name": "064_됫박산교차로"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "64_됫박산교차로.dat"
+    ],
+    "selected": "64_됫박산교차로.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

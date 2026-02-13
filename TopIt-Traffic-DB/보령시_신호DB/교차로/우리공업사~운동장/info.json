@@ -1,0 +1,35 @@
+{
+  "id": "237",
+  "name": "우리공업사~운동장",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": null,
+  "cycle_table": {
+    "filename": "우리공업사~운동장_주기표.xls",
+    "source_file": "보령1.xls",
+    "sheet_name": "우리공업사~운동장"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [],
+    "selected": "",
+    "reason": "DAT 파일 없음 (주기표만 존재)",
+    "confidence": "low"
+  }
+}

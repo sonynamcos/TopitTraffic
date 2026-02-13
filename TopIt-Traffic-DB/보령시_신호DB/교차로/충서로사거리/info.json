@@ -1,0 +1,48 @@
+{
+  "id": "12",
+  "name": "충서로사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "충서로사거리.dat",
+    "original_filename": "12_충서로사거리(new).dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "충서로사거리_주기표.xls",
+    "source_file": "11~20.xls",
+    "sheet_name": "충서로사거리(old)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "12_충서로사거리(new).dat",
+      "12_충서로사거리(old).dat"
+    ],
+    "selected": "12_충서로사거리(new).dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

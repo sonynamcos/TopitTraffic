@@ -1,0 +1,144 @@
+{
+  "id": "71",
+  "name": "명천초사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "명천초사거리.dat",
+    "original_filename": "110_명천초사거리20220524.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-06-02",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 4,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "명천초사거리_주기표.xlsx",
+    "source_file": "181~190.xlsx",
+    "sheet_name": "명천사거리(old)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "110_명천초사거리20220524.dat"
+    ],
+    "selected": "110_명천초사거리20220524.dat",
+    "reason": "교차로명 유사 매칭 (유사도: 0.83, DAT: \"명천초사거리\" ↔ 주기표: \"명천사거리\")",
+    "confidence": "medium"
+  }
+}

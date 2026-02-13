@@ -1,0 +1,47 @@
+{
+  "id": "32",
+  "name": "대창사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "대창사거리.dat",
+    "original_filename": "38_대창사거리.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "대창사거리_주기표.xls",
+    "source_file": "보령비보호 주기표.xls",
+    "sheet_name": "관창사거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "38_대창사거리.dat"
+    ],
+    "selected": "38_대창사거리.dat",
+    "reason": "교차로명 유사 매칭 (유사도: 0.80, DAT: \"대창사거리\" ↔ 주기표: \"관창사거리\")",
+    "confidence": "medium"
+  }
+}

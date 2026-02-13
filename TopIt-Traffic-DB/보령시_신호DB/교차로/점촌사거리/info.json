@@ -1,0 +1,95 @@
+{
+  "id": "16",
+  "name": "점촌사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "서돌전자(추정)",
+  "controller_model": "",
+  "dat": {
+    "filename": "점촌사거리.dat",
+    "original_filename": "16_점촌사거리(서돌).dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자(추정)",
+    "format": "plain",
+    "date_modified": null,
+    "phone": null,
+    "phases": 2,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 110,
+        "splits": [
+          118,
+          32
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "점촌사거리_주기표.xls",
+    "source_file": "보령비보호 주기표.xls",
+    "sheet_name": "점촌사거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "16_점촌사거리(서돌).dat",
+      "16_점촌사거리.dat"
+    ],
+    "selected": "16_점촌사거리(서돌).dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

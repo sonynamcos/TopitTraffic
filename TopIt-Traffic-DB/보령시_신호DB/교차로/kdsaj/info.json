@@ -1,0 +1,80 @@
+{
+  "id": "325",
+  "name": "kdsaj",
+  "alias": [],
+  "type": "",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "kdsaj.dat",
+    "original_filename": "해날아파트.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "phases": 4,
+    "plans": [
+      {
+        "cycle": 150,
+        "offset": 53,
+        "splits": [
+          90,
+          100,
+          60,
+          50
+        ]
+      },
+      {
+        "cycle": 160,
+        "offset": 87,
+        "splits": [
+          90,
+          110,
+          64,
+          56
+        ]
+      },
+      {
+        "cycle": 160,
+        "offset": 29,
+        "splits": [
+          90,
+          110,
+          64,
+          56
+        ]
+      }
+    ]
+  },
+  "cycle_table": {
+    "filename": "kdsaj_주기표.xlsx"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "주기표 재생성",
+      "by": "system"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "DAT 재업로드 (요도에서)",
+      "by": "web"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "주기표 자동 생성",
+      "by": "system"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "DAT 업로드 및 자동 등록 (요도에서)",
+      "by": "web"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "50",
+  "name": "해망산삼거리",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "LCsim",
+  "controller_model": "",
+  "dat": {
+    "filename": "해망산삼거리.dat",
+    "original_filename": "61_해망산삼거리.dat",
+    "size": 61472,
+    "manufacturer_detected": "LCsim",
+    "format": "lcsim",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "해망산삼거리_주기표.xls",
+    "source_file": "29_해망산삼거리(061).xls",
+    "sheet_name": "61_해망산삼거리(200629)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "61_해망산삼거리.dat"
+    ],
+    "selected": "61_해망산삼거리.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "53",
+  "name": "고잠교차로",
+  "alias": [],
+  "type": "교차로",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "고잠교차로.dat",
+    "original_filename": "66_고잠교차로.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "고잠교차로_주기표.xls",
+    "source_file": "131~140.xls",
+    "sheet_name": "고정교차로"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "66_고잠교차로.dat"
+    ],
+    "selected": "66_고잠교차로.dat",
+    "reason": "교차로명 유사 매칭 (유사도: 0.80, DAT: \"고잠교차로\" ↔ 주기표: \"고정교차로\")",
+    "confidence": "medium"
+  }
+}

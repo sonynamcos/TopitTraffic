@@ -1,0 +1,35 @@
+{
+  "id": "233",
+  "name": "오천면 영보리",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": null,
+  "cycle_table": {
+    "filename": "오천면 영보리_주기표.xls",
+    "source_file": "131~140.xls",
+    "sheet_name": "오천면 영보리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [],
+    "selected": "",
+    "reason": "DAT 파일 없음 (주기표만 존재)",
+    "confidence": "low"
+  }
+}

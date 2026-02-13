@@ -1,0 +1,43 @@
+{
+  "id": "90",
+  "name": "센트럴삼거리 사거리변경",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "센트럴삼거리 사거리변경.dat",
+    "original_filename": "150_센트럴삼거리 사거리변경_211019.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "150_센트럴삼거리 사거리변경_211019.dat"
+    ],
+    "selected": "150_센트럴삼거리 사거리변경_211019.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

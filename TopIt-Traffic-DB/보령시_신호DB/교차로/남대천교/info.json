@@ -1,0 +1,35 @@
+{
+  "id": "156",
+  "name": "남대천교",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": null,
+  "cycle_table": {
+    "filename": "남대천교_주기표.xlsx",
+    "source_file": "한내4,구시교차로,남대천.xlsx",
+    "sheet_name": "남대천교"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [],
+    "selected": "",
+    "reason": "DAT 파일 없음 (주기표만 존재)",
+    "confidence": "low"
+  }
+}

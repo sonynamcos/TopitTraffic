@@ -1,0 +1,1378 @@
+{
+  "source_file": "●수정_보령 신호제어기 요도_20211214.xls",
+  "total_intersections_in_diagram": 62,
+  "total_routes": 27,
+  "routes": [
+    {
+      "type": "horizontal",
+      "row": 22,
+      "road_name": "원의교차로",
+      "intersections": [
+        {
+          "id": "BC-208",
+          "name": "선촌교차로",
+          "position": [
+            22,
+            2
+          ]
+        },
+        {
+          "id": "BC-104",
+          "name": "원의교차로",
+          "position": [
+            22,
+            4
+          ]
+        },
+        {
+          "id": "BC-288",
+          "name": "코리아휠앞",
+          "position": [
+            22,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 27,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-109",
+          "name": "한촌설렁탕",
+          "position": [
+            27,
+            55
+          ]
+        },
+        {
+          "id": "BC-017",
+          "name": "연기보신원",
+          "position": [
+            27,
+            68
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 32,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-283",
+          "name": "청파초",
+          "position": [
+            32,
+            12
+          ]
+        },
+        {
+          "id": "BC-067",
+          "name": "대천여고",
+          "position": [
+            32,
+            59
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 35,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-074",
+          "name": "대천여중",
+          "position": [
+            35,
+            71
+          ]
+        },
+        {
+          "id": "BC-231",
+          "name": "연세병원앞",
+          "position": [
+            35,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 37,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-287",
+          "name": "충남해양과학고",
+          "position": [
+            37,
+            11
+          ]
+        },
+        {
+          "id": "BC-292",
+          "name": "파레스",
+          "position": [
+            37,
+            71
+          ]
+        },
+        {
+          "id": "BC-265",
+          "name": "죽정주공",
+          "position": [
+            37,
+            78
+          ]
+        },
+        {
+          "id": "BC-056",
+          "name": "주공",
+          "position": [
+            37,
+            80
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 38,
+      "road_name": "신평4R",
+      "intersections": [
+        {
+          "id": "BC-105",
+          "name": "대남초",
+          "position": [
+            38,
+            63
+          ]
+        },
+        {
+          "id": "BC-058",
+          "name": "신평교",
+          "position": [
+            38,
+            75
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 47,
+      "road_name": "화산고개 3R",
+      "intersections": [
+        {
+          "id": "BC-183",
+          "name": "됫박산",
+          "position": [
+            47,
+            10
+          ]
+        },
+        {
+          "id": "BC-300",
+          "name": "해망산",
+          "position": [
+            47,
+            20
+          ]
+        },
+        {
+          "id": "BC-048",
+          "name": "후동삼거리",
+          "position": [
+            47,
+            24
+          ]
+        },
+        {
+          "id": "BC-084",
+          "name": "요암농공단지",
+          "position": [
+            47,
+            31
+          ]
+        },
+        {
+          "id": "BC-085",
+          "name": "2대대",
+          "position": [
+            47,
+            41
+          ]
+        },
+        {
+          "id": "BC-293",
+          "name": "하이마트",
+          "position": [
+            47,
+            66
+          ]
+        },
+        {
+          "id": "BC-198",
+          "name": "보령모텔",
+          "position": [
+            47,
+            80
+          ]
+        },
+        {
+          "id": "BC-277",
+          "name": "청라중",
+          "position": [
+            47,
+            106
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 49,
+      "road_name": "원평4R",
+      "intersections": [
+        {
+          "id": "BC-021",
+          "name": "대천중",
+          "position": [
+            49,
+            57
+          ]
+        },
+        {
+          "id": "BC-056",
+          "name": "주공",
+          "position": [
+            49,
+            73
+          ]
+        },
+        {
+          "id": "BC-087",
+          "name": "동대초",
+          "position": [
+            49,
+            81
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 50,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-252",
+          "name": "정수장",
+          "position": [
+            50,
+            8
+          ]
+        },
+        {
+          "id": "BC-063",
+          "name": "현강주유소",
+          "position": [
+            50,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 51,
+      "road_name": "주공3R",
+      "intersections": [
+        {
+          "id": "BC-023",
+          "name": "한내초",
+          "position": [
+            51,
+            57
+          ]
+        },
+        {
+          "id": "BC-276",
+          "name": "청라 향천리",
+          "position": [
+            51,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 57,
+      "road_name": "평신교차로",
+      "intersections": [
+        {
+          "id": "BC-302",
+          "name": "홈플러스",
+          "position": [
+            57,
+            71
+          ]
+        },
+        {
+          "id": "BC-080",
+          "name": "평신교차로",
+          "position": [
+            57,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 63,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-026",
+          "name": "우리공업사",
+          "position": [
+            63,
+            62
+          ]
+        },
+        {
+          "id": "BC-205",
+          "name": "삼성리조트",
+          "position": [
+            63,
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 66,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-258",
+          "name": "주산초",
+          "position": [
+            66,
+            34
+          ]
+        },
+        {
+          "id": "BC-194",
+          "name": "보건소",
+          "position": [
+            66,
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal",
+      "row": 72,
+      "road_name": "무창포IC",
+      "intersections": [
+        {
+          "id": "BC-257",
+          "name": "주산정곡발명센터",
+          "position": [
+            72,
+            30
+          ]
+        },
+        {
+          "id": "BC-160",
+          "name": "남포지구대",
+          "position": [
+            72,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 4,
+      "road_name": "원의교차로",
+      "intersections": [
+        {
+          "id": "BC-104",
+          "name": "원의교차로",
+          "position": [
+            22,
+            4
+          ]
+        },
+        {
+          "id": "BC-177",
+          "name": "대천항",
+          "position": [
+            25,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 11,
+      "road_name": "머드광장진입 교차로",
+      "intersections": [
+        {
+          "id": "BC-108",
+          "name": "진명식당",
+          "position": [
+            30,
+            11
+          ]
+        },
+        {
+          "id": "BC-287",
+          "name": "충남해양과학고",
+          "position": [
+            37,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 55,
+      "road_name": "궁촌4R",
+      "intersections": [
+        {
+          "id": "BC-109",
+          "name": "한촌설렁탕",
+          "position": [
+            27,
+            55
+          ]
+        },
+        {
+          "id": "BC-235",
+          "name": "옥산주유소",
+          "position": [
+            68,
+            55
+          ]
+        },
+        {
+          "id": "BC-160",
+          "name": "남포지구대",
+          "position": [
+            72,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 57,
+      "road_name": "시청3R",
+      "intersections": [
+        {
+          "id": "BC-021",
+          "name": "대천중",
+          "position": [
+            49,
+            57
+          ]
+        },
+        {
+          "id": "BC-023",
+          "name": "한내초",
+          "position": [
+            51,
+            57
+          ]
+        },
+        {
+          "id": "BC-194",
+          "name": "보건소",
+          "position": [
+            66,
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 61,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-288",
+          "name": "코리아휠앞",
+          "position": [
+            22,
+            61
+          ]
+        },
+        {
+          "id": "BC-076",
+          "name": "요양병원",
+          "position": [
+            41,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 62,
+      "road_name": "창동3R",
+      "intersections": [
+        {
+          "id": "BC-026",
+          "name": "우리공업사",
+          "position": [
+            63,
+            62
+          ]
+        },
+        {
+          "id": "BC-239",
+          "name": "운동장",
+          "position": [
+            74,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 66,
+      "road_name": "해양경찰서입구 3R",
+      "intersections": [
+        {
+          "id": "BC-154",
+          "name": "기아자동차",
+          "position": [
+            43,
+            66
+          ]
+        },
+        {
+          "id": "BC-293",
+          "name": "하이마트",
+          "position": [
+            47,
+            66
+          ]
+        },
+        {
+          "id": "BC-219",
+          "name": "시청",
+          "position": [
+            58,
+            66
+          ]
+        },
+        {
+          "id": "BC-205",
+          "name": "삼성리조트",
+          "position": [
+            63,
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 70,
+      "road_name": "점촌4R",
+      "intersections": [
+        {
+          "id": "BC-015",
+          "name": "정심원",
+          "position": [
+            23,
+            70
+          ]
+        },
+        {
+          "id": "BC-018",
+          "name": "서오맨션",
+          "position": [
+            31,
+            70
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 71,
+      "road_name": "동대4R",
+      "intersections": [
+        {
+          "id": "BC-074",
+          "name": "대천여중",
+          "position": [
+            35,
+            71
+          ]
+        },
+        {
+          "id": "BC-292",
+          "name": "파레스",
+          "position": [
+            37,
+            71
+          ]
+        },
+        {
+          "id": "BC-302",
+          "name": "홈플러스",
+          "position": [
+            57,
+            71
+          ]
+        },
+        {
+          "id": "BC-163",
+          "name": "대명중",
+          "position": [
+            59,
+            71
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 77,
+      "road_name": "평신교차로",
+      "intersections": [
+        {
+          "id": "BC-231",
+          "name": "연세병원앞",
+          "position": [
+            35,
+            77
+          ]
+        },
+        {
+          "id": "BC-080",
+          "name": "평신교차로",
+          "position": [
+            57,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 80,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-056",
+          "name": "주공",
+          "position": [
+            37,
+            80
+          ]
+        },
+        {
+          "id": "BC-198",
+          "name": "보령모텔",
+          "position": [
+            47,
+            80
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 84,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-171",
+          "name": "대천동사무소",
+          "position": [
+            40,
+            84
+          ]
+        },
+        {
+          "id": "BC-088",
+          "name": "센트럴파크",
+          "position": [
+            52,
+            84
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vertical",
+      "col": 90,
+      "road_name": null,
+      "intersections": [
+        {
+          "id": "BC-185",
+          "name": "마강2리마을회관",
+          "position": [
+            12,
+            90
+          ]
+        },
+        {
+          "id": "BC-069",
+          "name": "마강들",
+          "position": [
+            14,
+            90
+          ]
+        }
+      ]
+    }
+  ],
+  "all_intersections": [
+    {
+      "row": 23,
+      "col": 70,
+      "name": "정심원",
+      "id": "BC-015",
+      "position": [
+        23,
+        70
+      ]
+    },
+    {
+      "row": 27,
+      "col": 68,
+      "name": "연기보신원",
+      "id": "BC-017",
+      "position": [
+        27,
+        68
+      ]
+    },
+    {
+      "row": 31,
+      "col": 70,
+      "name": "서오맨션",
+      "id": "BC-018",
+      "position": [
+        31,
+        70
+      ]
+    },
+    {
+      "row": 49,
+      "col": 57,
+      "name": "대천중",
+      "id": "BC-021",
+      "position": [
+        49,
+        57
+      ]
+    },
+    {
+      "row": 51,
+      "col": 57,
+      "name": "한내초",
+      "id": "BC-023",
+      "position": [
+        51,
+        57
+      ]
+    },
+    {
+      "row": 63,
+      "col": 62,
+      "name": "우리공업사",
+      "id": "BC-026",
+      "position": [
+        63,
+        62
+      ]
+    },
+    {
+      "row": 44,
+      "col": 102,
+      "name": "청보초",
+      "id": "BC-034",
+      "position": [
+        44,
+        102
+      ]
+    },
+    {
+      "row": 47,
+      "col": 24,
+      "name": "후동삼거리",
+      "id": "BC-048",
+      "position": [
+        47,
+        24
+      ]
+    },
+    {
+      "row": 37,
+      "col": 80,
+      "name": "주공",
+      "id": "BC-056",
+      "position": [
+        37,
+        80
+      ]
+    },
+    {
+      "row": 49,
+      "col": 73,
+      "name": "주공",
+      "id": "BC-056",
+      "position": [
+        49,
+        73
+      ]
+    },
+    {
+      "row": 38,
+      "col": 75,
+      "name": "신평교",
+      "id": "BC-058",
+      "position": [
+        38,
+        75
+      ]
+    },
+    {
+      "row": 50,
+      "col": 50,
+      "name": "현강주유소",
+      "id": "BC-063",
+      "position": [
+        50,
+        50
+      ]
+    },
+    {
+      "row": 32,
+      "col": 59,
+      "name": "대천여고",
+      "id": "BC-067",
+      "position": [
+        32,
+        59
+      ]
+    },
+    {
+      "row": 14,
+      "col": 90,
+      "name": "마강들",
+      "id": "BC-069",
+      "position": [
+        14,
+        90
+      ]
+    },
+    {
+      "row": 35,
+      "col": 71,
+      "name": "대천여중",
+      "id": "BC-074",
+      "position": [
+        35,
+        71
+      ]
+    },
+    {
+      "row": 41,
+      "col": 61,
+      "name": "요양병원",
+      "id": "BC-076",
+      "position": [
+        41,
+        61
+      ]
+    },
+    {
+      "row": 57,
+      "col": 77,
+      "name": "평신교차로",
+      "id": "BC-080",
+      "position": [
+        57,
+        77
+      ]
+    },
+    {
+      "row": 47,
+      "col": 31,
+      "name": "요암농공단지",
+      "id": "BC-084",
+      "position": [
+        47,
+        31
+      ]
+    },
+    {
+      "row": 47,
+      "col": 41,
+      "name": "2대대",
+      "id": "BC-085",
+      "position": [
+        47,
+        41
+      ]
+    },
+    {
+      "row": 49,
+      "col": 81,
+      "name": "동대초",
+      "id": "BC-087",
+      "position": [
+        49,
+        81
+      ]
+    },
+    {
+      "row": 52,
+      "col": 84,
+      "name": "센트럴파크",
+      "id": "BC-088",
+      "position": [
+        52,
+        84
+      ]
+    },
+    {
+      "row": 26,
+      "col": 76,
+      "name": "대관초",
+      "id": "BC-102",
+      "position": [
+        26,
+        76
+      ]
+    },
+    {
+      "row": 19,
+      "col": 7,
+      "name": "원산교차로",
+      "id": "BC-103",
+      "position": [
+        19,
+        7
+      ]
+    },
+    {
+      "row": 22,
+      "col": 4,
+      "name": "원의교차로",
+      "id": "BC-104",
+      "position": [
+        22,
+        4
+      ]
+    },
+    {
+      "row": 38,
+      "col": 63,
+      "name": "대남초",
+      "id": "BC-105",
+      "position": [
+        38,
+        63
+      ]
+    },
+    {
+      "row": 30,
+      "col": 11,
+      "name": "진명식당",
+      "id": "BC-108",
+      "position": [
+        30,
+        11
+      ]
+    },
+    {
+      "row": 27,
+      "col": 55,
+      "name": "한촌설렁탕",
+      "id": "BC-109",
+      "position": [
+        27,
+        55
+      ]
+    },
+    {
+      "row": 48,
+      "col": 93,
+      "name": "고인돌",
+      "id": "BC-142",
+      "position": [
+        48,
+        93
+      ]
+    },
+    {
+      "row": 43,
+      "col": 66,
+      "name": "기아자동차",
+      "id": "BC-154",
+      "position": [
+        43,
+        66
+      ]
+    },
+    {
+      "row": 71,
+      "col": 53,
+      "name": "남포중",
+      "id": "BC-159",
+      "position": [
+        71,
+        53
+      ]
+    },
+    {
+      "row": 72,
+      "col": 55,
+      "name": "남포지구대",
+      "id": "BC-160",
+      "position": [
+        72,
+        55
+      ]
+    },
+    {
+      "row": 59,
+      "col": 71,
+      "name": "대명중",
+      "id": "BC-163",
+      "position": [
+        59,
+        71
+      ]
+    },
+    {
+      "row": 40,
+      "col": 84,
+      "name": "대천동사무소",
+      "id": "BC-171",
+      "position": [
+        40,
+        84
+      ]
+    },
+    {
+      "row": 25,
+      "col": 4,
+      "name": "대천항",
+      "id": "BC-177",
+      "position": [
+        25,
+        4
+      ]
+    },
+    {
+      "row": 47,
+      "col": 10,
+      "name": "됫박산",
+      "id": "BC-183",
+      "position": [
+        47,
+        10
+      ]
+    },
+    {
+      "row": 12,
+      "col": 90,
+      "name": "마강2리마을회관",
+      "id": "BC-185",
+      "position": [
+        12,
+        90
+      ]
+    },
+    {
+      "row": 73,
+      "col": 46,
+      "name": "무창포IC",
+      "id": "BC-191",
+      "position": [
+        73,
+        46
+      ]
+    },
+    {
+      "row": 66,
+      "col": 57,
+      "name": "보건소",
+      "id": "BC-194",
+      "position": [
+        66,
+        57
+      ]
+    },
+    {
+      "row": 47,
+      "col": 80,
+      "name": "보령모텔",
+      "id": "BC-198",
+      "position": [
+        47,
+        80
+      ]
+    },
+    {
+      "row": 63,
+      "col": 66,
+      "name": "삼성리조트",
+      "id": "BC-205",
+      "position": [
+        63,
+        66
+      ]
+    },
+    {
+      "row": 22,
+      "col": 2,
+      "name": "선촌교차로",
+      "id": "BC-208",
+      "position": [
+        22,
+        2
+      ]
+    },
+    {
+      "row": 58,
+      "col": 66,
+      "name": "시청",
+      "id": "BC-219",
+      "position": [
+        58,
+        66
+      ]
+    },
+    {
+      "row": 35,
+      "col": 77,
+      "name": "연세병원앞",
+      "id": "BC-231",
+      "position": [
+        35,
+        77
+      ]
+    },
+    {
+      "row": 68,
+      "col": 55,
+      "name": "옥산주유소",
+      "id": "BC-235",
+      "position": [
+        68,
+        55
+      ]
+    },
+    {
+      "row": 74,
+      "col": 62,
+      "name": "운동장",
+      "id": "BC-239",
+      "position": [
+        74,
+        62
+      ]
+    },
+    {
+      "row": 79,
+      "col": 44,
+      "name": "웅천교",
+      "id": "BC-242",
+      "position": [
+        79,
+        44
+      ]
+    },
+    {
+      "row": 76,
+      "col": 47,
+      "name": "웅천초",
+      "id": "BC-243",
+      "position": [
+        76,
+        47
+      ]
+    },
+    {
+      "row": 50,
+      "col": 8,
+      "name": "정수장",
+      "id": "BC-252",
+      "position": [
+        50,
+        8
+      ]
+    },
+    {
+      "row": 72,
+      "col": 30,
+      "name": "주산정곡발명센터",
+      "id": "BC-257",
+      "position": [
+        72,
+        30
+      ]
+    },
+    {
+      "row": 66,
+      "col": 34,
+      "name": "주산초",
+      "id": "BC-258",
+      "position": [
+        66,
+        34
+      ]
+    },
+    {
+      "row": 37,
+      "col": 78,
+      "name": "죽정주공",
+      "id": "BC-265",
+      "position": [
+        37,
+        78
+      ]
+    },
+    {
+      "row": 51,
+      "col": 100,
+      "name": "청라 향천리",
+      "id": "BC-276",
+      "position": [
+        51,
+        100
+      ]
+    },
+    {
+      "row": 47,
+      "col": 106,
+      "name": "청라중",
+      "id": "BC-277",
+      "position": [
+        47,
+        106
+      ]
+    },
+    {
+      "row": 16,
+      "col": 95,
+      "name": "청소농공단지",
+      "id": "BC-280",
+      "position": [
+        16,
+        95
+      ]
+    },
+    {
+      "row": 32,
+      "col": 12,
+      "name": "청파초",
+      "id": "BC-283",
+      "position": [
+        32,
+        12
+      ]
+    },
+    {
+      "row": 37,
+      "col": 11,
+      "name": "충남해양과학고",
+      "id": "BC-287",
+      "position": [
+        37,
+        11
+      ]
+    },
+    {
+      "row": 22,
+      "col": 61,
+      "name": "코리아휠앞",
+      "id": "BC-288",
+      "position": [
+        22,
+        61
+      ]
+    },
+    {
+      "row": 18,
+      "col": 38,
+      "name": "터미널",
+      "id": "BC-290",
+      "position": [
+        18,
+        38
+      ]
+    },
+    {
+      "row": 37,
+      "col": 71,
+      "name": "파레스",
+      "id": "BC-292",
+      "position": [
+        37,
+        71
+      ]
+    },
+    {
+      "row": 47,
+      "col": 66,
+      "name": "하이마트",
+      "id": "BC-293",
+      "position": [
+        47,
+        66
+      ]
+    },
+    {
+      "row": 47,
+      "col": 20,
+      "name": "해망산",
+      "id": "BC-300",
+      "position": [
+        47,
+        20
+      ]
+    },
+    {
+      "row": 57,
+      "col": 71,
+      "name": "홈플러스",
+      "id": "BC-302",
+      "position": [
+        57,
+        71
+      ]
+    }
+  ]
+}

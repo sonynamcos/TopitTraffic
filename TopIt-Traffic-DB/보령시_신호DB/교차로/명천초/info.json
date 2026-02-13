@@ -1,0 +1,146 @@
+{
+  "id": "70",
+  "name": "명천초",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "명천초.dat",
+    "original_filename": "110_명천초4R.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-06-02",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      },
+      {
+        "plan": 4,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          33,
+          33,
+          26,
+          28
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "명천초_주기표.xls",
+    "source_file": "101~110.xls",
+    "sheet_name": "명천초"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "110_명천초4R.dat",
+      "명천초 정문.dat",
+      "110_명천초4R(한진).dat"
+    ],
+    "selected": "110_명천초4R.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

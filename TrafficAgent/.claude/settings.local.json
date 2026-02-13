@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /a \"C:\\\\JJUN_DEV\\\\TrafficAgent\")",
+      "Bash(python3:*)",
+      "Bash(powershell -command \"\nAdd-Type -AssemblyName System.IO.Compression.FileSystem\n$zip = [System.IO.Compression.ZipFile]::OpenRead\\(''C:\\\\JJUN_DEV\\\\TrafficAgent\\\\주기표양식.xlsx''\\)\nforeach \\($entry in $zip.Entries\\) {\n    Write-Host \\(''{0,8}  {1}'' -f $entry.Length, $entry.FullName\\)\n}\n$zip.Dispose\\(\\)\n\")",
+      "Bash(node --version:*)",
+      "Bash(npm --version:*)",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "Bash(rustc:*)",
+      "Bash(cmd.exe /c \"rustc --version\")",
+      "Bash(cmd.exe /c \"cargo --version\")",
+      "Bash(cmd.exe /c \"dir C:\\\\JJUN_DEV\\\\TrafficAgent\")",
+      "Bash(cmd.exe /c \"rustc --version 2>&1 && echo FOUND || echo NOT_FOUND\")",
+      "Bash(cmd.exe /c \"where rustc 2>&1 || echo RUST_NOT_IN_PATH\")",
+      "Bash(cmd.exe /c \"dir /b C:\\\\JJUN_DEV\\\\TrafficAgent 2>&1\")",
+      "Bash(powershell.exe -Command \"rustc --version\")",
+      "Bash(powershell.exe -Command \"node --version\")",
+      "Bash(powershell.exe -Command \"npm --version\")",
+      "Bash(powershell.exe:*)",
+      "Bash(\"C:\\\\Users\\\\TopIt\\\\.cargo\\\\bin\\\\rustc.exe\":*)",
+      "Bash(\"C:\\\\Users\\\\TopIt\\\\.cargo\\\\bin\\\\cargo.exe\" --version:*)",
+      "Bash(npx.cmd --yes @tauri-apps/cli@latest init)",
+      "Bash(npx.cmd:*)",
+      "Bash(npm.cmd install:*)",
+      "Bash(PATH=\"$PATH:C:/Users/TopIt/.cargo/bin\" npx.cmd tauri build:*)",
+      "Bash(export PATH:*)",
+      "WebSearch",
+      "WebFetch(domain:v2.tauri.app)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:quentinwach.com)",
+      "Bash(\"C:\\\\Users\\\\TopIt\\\\.cargo\\\\bin\\\\cargo.exe\" add tauri-plugin-dialog tauri-plugin-fs)",
+      "Bash(node -e:*)",
+      "Bash(node parse-dat.js:*)",
+      "Bash(move:*)",
+      "Bash(node parse-dat.cjs:*)",
+      "Bash(dir:*)"
+    ]
+  }
+}

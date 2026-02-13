@@ -1,0 +1,133 @@
+{
+  "id": "38",
+  "name": "신설사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "신설사거리.dat",
+    "original_filename": "47_신설사거리20240618.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-01-18",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 140,
+        "splits": [
+          61,
+          28,
+          28,
+          33
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 160,
+        "offset": 35,
+        "splits": [
+          71,
+          28,
+          28,
+          33
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 160,
+        "offset": 140,
+        "splits": [
+          66,
+          33,
+          28,
+          33
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 150,
+        "offset": 140,
+        "splits": [
+          61,
+          28,
+          28,
+          33
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "신설사거리_주기표.xls",
+    "source_file": "7_신설사거리(047).xls",
+    "sheet_name": "047_신설사거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "47_신설사거리.dat",
+      "47_신설사거리20240618.dat"
+    ],
+    "selected": "47_신설사거리20240618.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

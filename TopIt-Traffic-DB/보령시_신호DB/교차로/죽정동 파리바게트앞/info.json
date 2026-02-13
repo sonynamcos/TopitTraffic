@@ -1,0 +1,35 @@
+{
+  "id": "264",
+  "name": "죽정동 파리바게트앞",
+  "alias": [],
+  "type": "단일로",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": null,
+  "cycle_table": {
+    "filename": "죽정동 파리바게트앞_주기표.xls",
+    "source_file": "111~120.xls",
+    "sheet_name": "죽정동 파리바게트앞"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [],
+    "selected": "",
+    "reason": "DAT 파일 없음 (주기표만 존재)",
+    "confidence": "low"
+  }
+}

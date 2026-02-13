@@ -1,0 +1,83 @@
+{
+  "id": "56",
+  "name": "주공",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자(추정)",
+  "controller_model": "",
+  "dat": {
+    "filename": "주공.dat",
+    "original_filename": "87_주공정문(휴먼시아).dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자(추정)",
+    "format": "plain",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": [],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "주공_주기표.xlsx",
+    "source_file": "41~50..xlsx",
+    "sheet_name": "주공4R"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "87_주공정문(휴먼시아).dat"
+    ],
+    "selected": "87_주공정문(휴먼시아).dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

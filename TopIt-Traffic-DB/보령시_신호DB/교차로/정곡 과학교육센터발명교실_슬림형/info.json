@@ -1,0 +1,90 @@
+{
+  "id": "100",
+  "name": "정곡 과학교육센터발명교실_슬림형",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "정곡 과학교육센터발명교실_슬림형.dat",
+    "original_filename": "165_정곡 과학교육센터발명교실(상상이룸교육센터앞)_슬림형.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-01-18",
+    "phone": "031-901-5120",
+    "phases": 2,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 45,
+        "offset": 0,
+        "splits": [
+          30,
+          15
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "165_정곡 과학교육센터발명교실(상상이룸교육센터앞)_슬림형.dat"
+    ],
+    "selected": "165_정곡 과학교육센터발명교실(상상이룸교육센터앞)_슬림형.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

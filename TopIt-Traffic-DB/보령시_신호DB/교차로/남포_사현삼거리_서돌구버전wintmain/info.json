@@ -1,0 +1,43 @@
+{
+  "id": "158",
+  "name": "남포_사현삼거리_서돌구버전wintmain",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": {
+    "filename": "남포_사현삼거리_서돌구버전wintmain.dat",
+    "original_filename": "남포_사현삼거리_서돌구버전wintmain.dat",
+    "size": 11138,
+    "manufacturer_detected": "unknown",
+    "format": "unknown",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "남포_사현삼거리_서돌구버전wintmain.dat"
+    ],
+    "selected": "남포_사현삼거리_서돌구버전wintmain.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "296",
+  "name": "한내여중 진입도로 삼거리",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": null,
+  "cycle_table": {
+    "filename": "한내여중 진입도로 삼거리_주기표.xls",
+    "source_file": "151~160.xls",
+    "sheet_name": "한내여중 진입도로 삼거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [],
+    "selected": "",
+    "reason": "DAT 파일 없음 (주기표만 존재)",
+    "confidence": "low"
+  }
+}

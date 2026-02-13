@@ -1,0 +1,96 @@
+{
+  "id": "103",
+  "name": "원산교차로",
+  "alias": [],
+  "type": "교차로",
+  "manufacturer": "서돌전자(추정)",
+  "controller_model": "",
+  "dat": {
+    "filename": "원산교차로.dat",
+    "original_filename": "169_원산교차로.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자(추정)",
+    "format": "plain",
+    "date_modified": null,
+    "phone": null,
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 180,
+        "offset": 0,
+        "splits": [
+          110,
+          18,
+          26,
+          26
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "원산교차로_주기표.xlsx",
+    "source_file": "161~170.xlsx",
+    "sheet_name": "원산교차로(old)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "169_원산교차로.dat"
+    ],
+    "selected": "169_원산교차로.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

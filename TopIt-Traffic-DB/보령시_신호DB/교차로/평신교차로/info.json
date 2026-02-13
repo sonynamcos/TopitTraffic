@@ -1,0 +1,96 @@
+{
+  "id": "80",
+  "name": "평신교차로",
+  "alias": [],
+  "type": "교차로",
+  "manufacturer": "서돌전자(추정)",
+  "controller_model": "",
+  "dat": {
+    "filename": "평신교차로.dat",
+    "original_filename": "130_평신교차로.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자(추정)",
+    "format": "plain",
+    "date_modified": null,
+    "phone": null,
+    "phases": 3,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 120,
+        "offset": 45,
+        "splits": [
+          68,
+          26,
+          26
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "평신교차로_주기표.xls",
+    "source_file": "121~130.xls",
+    "sheet_name": "평신교차로"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "130_평신교차로.dat",
+      "130_평신교차로(한진).dat"
+    ],
+    "selected": "130_평신교차로.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "95",
+  "name": "송동마을 입구 삼거리",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "송동마을 입구 삼거리.dat",
+    "original_filename": "155_송동마을 입구 삼거리.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "송동마을 입구 삼거리_주기표.xlsx",
+    "source_file": "청소면 송동마을입구 삼거리.xlsx",
+    "sheet_name": "청소면 송동마을입구삼거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "155_송동마을 입구 삼거리.dat"
+    ],
+    "selected": "155_송동마을 입구 삼거리.dat",
+    "reason": "교차로명 부분 매칭 (유사도: 0.71, DAT: \"송동마을 입구 삼거리\" ↔ 주기표: \"청소면 송동마을입구삼거리\")",
+    "confidence": "low"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "124",
+  "name": "대천애육원입구 서",
+  "alias": [],
+  "type": "입구",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "대천애육원입구 서.dat",
+    "original_filename": "192_대천애육원입구 서20240827(차량 전적색 삭제).dat",
+    "size": 14846,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol_extended",
+    "date_modified": "2024-05-10",
+    "phone": "031-901-5120",
+    "phases": 2,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 65,
+        "offset": 0,
+        "splits": [
+          38,
+          27
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량3색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "192_대천애육원입구 서20240827(차량 전적색 삭제).dat",
+      "192_대천애육원입구_서.dat",
+      "192_대천애육원입구_서20240827(보행후 전적색2초).dat"
+    ],
+    "selected": "192_대천애육원입구 서20240827(차량 전적색 삭제).dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

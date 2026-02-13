@@ -1,0 +1,134 @@
+{
+  "id": "55",
+  "name": "한내사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "한내사거리.dat",
+    "original_filename": "86_한내사거리.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-01-18",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 28,
+        "splits": [
+          66,
+          20,
+          32,
+          32
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 160,
+        "offset": 80,
+        "splits": [
+          71,
+          25,
+          32,
+          32
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 160,
+        "offset": 14,
+        "splits": [
+          71,
+          25,
+          32,
+          32
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 150,
+        "offset": 33,
+        "splits": [
+          66,
+          20,
+          32,
+          32
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "한내사거리_주기표.xls",
+    "source_file": "보령0.xls",
+    "sheet_name": "한내사거리(도서관)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "86_한내사거리.dat",
+      "86_한내사거리(old).dat",
+      "86_한내사거리(old1).dat"
+    ],
+    "selected": "86_한내사거리.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

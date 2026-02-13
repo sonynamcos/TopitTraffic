@@ -1,0 +1,126 @@
+{
+  "id": "23",
+  "name": "한내초",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "한내초.dat",
+    "original_filename": "25_한내초.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-01-18",
+    "phone": "031-901-5120",
+    "phases": 2,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 0,
+        "splits": [
+          121,
+          29
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 160,
+        "offset": 30,
+        "splits": [
+          131,
+          29
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 160,
+        "offset": 130,
+        "splits": [
+          131,
+          29
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 150,
+        "offset": 0,
+        "splits": [
+          121,
+          29
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "한내초_주기표.xls",
+    "source_file": "21~30.xls",
+    "sheet_name": "한내초"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "25_한내초.dat",
+      "25_한내초(old).dat",
+      "25_한내초정문_수정_210823.dat"
+    ],
+    "selected": "25_한내초.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "137",
+  "name": "ts",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "ts.dat",
+    "original_filename": "ts.dat",
+    "size": 16233,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v0.0.2.1",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "ts.dat"
+    ],
+    "selected": "ts.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

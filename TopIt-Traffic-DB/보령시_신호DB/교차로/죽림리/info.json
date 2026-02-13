@@ -1,0 +1,48 @@
+{
+  "id": "4",
+  "name": "죽림리",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "죽림리.dat",
+    "original_filename": "3_죽림리.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "죽림리_주기표.xls",
+    "source_file": "01_20 신규.xls",
+    "sheet_name": "3_죽림리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "3_죽림리.dat",
+      "3_죽림리.dat"
+    ],
+    "selected": "3_죽림리.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

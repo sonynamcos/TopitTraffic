@@ -1,0 +1,43 @@
+{
+  "id": "73",
+  "name": "시영아파트삼거리_신호등교체후",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": {
+    "filename": "시영아파트삼거리_신호등교체후.dat",
+    "original_filename": "115_시영아파트삼거리_신호등교체후.dat",
+    "size": 11608,
+    "manufacturer_detected": "unknown",
+    "format": "unknown",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "115_시영아파트삼거리_신호등교체후.dat"
+    ],
+    "selected": "115_시영아파트삼거리_신호등교체후.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

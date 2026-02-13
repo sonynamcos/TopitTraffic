@@ -1,0 +1,47 @@
+{
+  "id": "101",
+  "name": "아이꿈터어린이집",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "아이꿈터어린이집.dat",
+    "original_filename": "168_아이꿈터어린이집.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "아이꿈터어린이집_주기표.xlsx",
+    "source_file": "161~170.xlsx",
+    "sheet_name": "아이꿈터어린이집"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "168_아이꿈터어린이집.dat"
+    ],
+    "selected": "168_아이꿈터어린이집.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "109",
+  "name": "한촌설렁탕",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "한촌설렁탕.dat",
+    "original_filename": "176_한촌설렁탕(old).dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-06-02",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 110,
+        "splits": [
+          85,
+          25,
+          20,
+          20
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 160,
+        "offset": 146,
+        "splits": [
+          95,
+          25,
+          20,
+          20
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 160,
+        "offset": 82,
+        "splits": [
+          95,
+          25,
+          20,
+          20
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 150,
+        "offset": 110,
+        "splits": [
+          85,
+          25,
+          20,
+          20
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "한촌설렁탕_주기표.xlsx",
+    "source_file": "171~180.xlsx",
+    "sheet_name": "한촌설렁탕(old)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "176_한촌설렁탕(old).dat"
+    ],
+    "selected": "176_한촌설렁탕(old).dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

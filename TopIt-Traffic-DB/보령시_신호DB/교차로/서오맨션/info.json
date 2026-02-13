@@ -1,0 +1,95 @@
+{
+  "id": "18",
+  "name": "서오맨션",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자(추정)",
+  "controller_model": "",
+  "dat": {
+    "filename": "서오맨션.dat",
+    "original_filename": "20_서오맨션(서돌).dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자(추정)",
+    "format": "plain",
+    "date_modified": null,
+    "phone": null,
+    "phases": 2,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 29,
+        "offset": 0,
+        "splits": [
+          9,
+          20
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "0x38",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "서오맨션_주기표.xlsx",
+    "source_file": "한내로-보령북로.xlsx",
+    "sheet_name": "서오맨션"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "20_서오맨션(서돌).dat",
+      "20_서오맨션.dat"
+    ],
+    "selected": "20_서오맨션(서돌).dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

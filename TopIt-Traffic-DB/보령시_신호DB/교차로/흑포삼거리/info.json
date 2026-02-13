@@ -1,0 +1,132 @@
+{
+  "id": "51",
+  "name": "흑포삼거리",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "흑포삼거리.dat",
+    "original_filename": "62_흑포삼거리.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-06-02",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 150,
+        "offset": 75,
+        "splits": [
+          62,
+          15,
+          20,
+          33
+        ],
+        "valid": false
+      },
+      {
+        "plan": 1,
+        "cycle": 160,
+        "offset": 95,
+        "splits": [
+          72,
+          15,
+          20,
+          33
+        ],
+        "valid": false
+      },
+      {
+        "plan": 2,
+        "cycle": 160,
+        "offset": 40,
+        "splits": [
+          72,
+          15,
+          20,
+          33
+        ],
+        "valid": false
+      },
+      {
+        "plan": 3,
+        "cycle": 150,
+        "offset": 75,
+        "splits": [
+          62,
+          15,
+          20,
+          33
+        ],
+        "valid": false
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "차량3색",
+      "보행2색",
+      "보행2색",
+      "보행2색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "흑포삼거리_주기표.xls",
+    "source_file": "61~70.xls",
+    "sheet_name": "흑포사거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "62_흑포삼거리.dat"
+    ],
+    "selected": "62_흑포삼거리.dat",
+    "reason": "교차로명 유사 매칭 (유사도: 0.80, DAT: \"흑포삼거리\" ↔ 주기표: \"흑포사거리\")",
+    "confidence": "medium"
+  }
+}

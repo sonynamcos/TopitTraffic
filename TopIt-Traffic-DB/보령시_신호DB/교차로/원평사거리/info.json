@@ -1,0 +1,133 @@
+{
+  "id": "57",
+  "name": "원평사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "원평사거리.dat",
+    "original_filename": "88_원평사거리.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2022-04-27",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          42,
+          28,
+          25,
+          25
+        ],
+        "valid": true
+      },
+      {
+        "plan": 1,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          34,
+          29,
+          25,
+          32
+        ],
+        "valid": true
+      },
+      {
+        "plan": 2,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          34,
+          24,
+          25,
+          37
+        ],
+        "valid": true
+      },
+      {
+        "plan": 3,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          34,
+          29,
+          25,
+          32
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "원평사거리_주기표.xlsx",
+    "source_file": "81~90.xlsx",
+    "sheet_name": "원평사거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "88_원평사거리.dat",
+      "88_원평사거리.dat"
+    ],
+    "selected": "88_원평사거리.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

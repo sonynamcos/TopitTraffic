@@ -1,0 +1,47 @@
+{
+  "id": "28",
+  "name": "창동삼거리",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "창동삼거리.dat",
+    "original_filename": "31_창동삼거리.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "창동삼거리_주기표.xls",
+    "source_file": "01_20 신규.xls",
+    "sheet_name": "2_마동삼거리"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "31_창동삼거리.dat"
+    ],
+    "selected": "31_창동삼거리.dat",
+    "reason": "교차로명 유사 매칭 (유사도: 0.80, DAT: \"창동삼거리\" ↔ 주기표: \"마동삼거리\")",
+    "confidence": "medium"
+  }
+}

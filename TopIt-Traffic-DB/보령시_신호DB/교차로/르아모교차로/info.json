@@ -1,0 +1,48 @@
+{
+  "id": "93",
+  "name": "르아모교차로",
+  "alias": [],
+  "type": "교차로",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "르아모교차로.dat",
+    "original_filename": "153_르아모교차로.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "르아모교차로_주기표.xls",
+    "source_file": "151~160.xls",
+    "sheet_name": "르아모교차로(old)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "153_르아모교차로.dat",
+      "153_르아모 교차로(old).dat"
+    ],
+    "selected": "153_르아모교차로.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

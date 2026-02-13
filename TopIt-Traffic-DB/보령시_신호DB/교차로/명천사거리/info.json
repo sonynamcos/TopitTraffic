@@ -1,0 +1,47 @@
+{
+  "id": "115",
+  "name": "명천사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": {
+    "filename": "명천사거리.dat",
+    "original_filename": "182_명천사거리.dat",
+    "size": 11608,
+    "manufacturer_detected": "unknown",
+    "format": "unknown",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "명천사거리_주기표.xlsx",
+    "source_file": "181~190.xlsx",
+    "sheet_name": "명천사거리(old)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "182_명천사거리.dat"
+    ],
+    "selected": "182_명천사거리.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

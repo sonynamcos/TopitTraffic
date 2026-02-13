@@ -1,0 +1,35 @@
+{
+  "id": "222",
+  "name": "신대사거리옆 단일로 지압",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": null,
+  "cycle_table": {
+    "filename": "신대사거리옆 단일로 지압_주기표.xlsx",
+    "source_file": "한내로-보령북로.xlsx",
+    "sheet_name": "신대사거리옆 단일로 지압"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [],
+    "selected": "",
+    "reason": "DAT 파일 없음 (주기표만 존재)",
+    "confidence": "low"
+  }
+}

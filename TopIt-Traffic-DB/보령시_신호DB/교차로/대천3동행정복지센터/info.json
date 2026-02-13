@@ -1,0 +1,47 @@
+{
+  "id": "83",
+  "name": "대천3동행정복지센터",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "대천3동행정복지센터.dat",
+    "original_filename": "135_대천3동행정복지센터.dat",
+    "size": 6321,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v0.0.1.1",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "대천3동행정복지센터_주기표.xls",
+    "source_file": "5_대천3동행정복지센터3(135).xls",
+    "sheet_name": "135_대천3동행정복지센터(200629)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "135_대천3동행정복지센터.dat"
+    ],
+    "selected": "135_대천3동행정복지센터.dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

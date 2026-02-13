@@ -1,0 +1,418 @@
+{
+  "version": "1.0",
+  "created": "2026-02-13",
+  "source": "●수정_보령 신호제어기 요도_20211214.xls",
+  "description": "Route diagram for Boryeong City traffic signal controllers. Routes represent major roads with controllers arranged in sequence.",
+  "routes": [
+    {
+      "id": "H1",
+      "name": "원의교차로",
+      "type": "horizontal",
+      "excel_row": 22,
+      "controllers": [
+        "BC-208",
+        "BC-104",
+        "BC-288"
+      ],
+      "intersection_names": [
+        "선촌교차로",
+        "원의교차로",
+        "코리아휠앞"
+      ]
+    },
+    {
+      "id": "H2",
+      "name": "Unnamed Horizontal Route 2",
+      "type": "horizontal",
+      "excel_row": 27,
+      "controllers": [
+        "BC-109",
+        "BC-017"
+      ],
+      "intersection_names": [
+        "한촌설렁탕",
+        "연기보신원"
+      ]
+    },
+    {
+      "id": "H3",
+      "name": "Unnamed Horizontal Route 3",
+      "type": "horizontal",
+      "excel_row": 32,
+      "controllers": [
+        "BC-283",
+        "BC-067"
+      ],
+      "intersection_names": [
+        "청파초",
+        "대천여고"
+      ]
+    },
+    {
+      "id": "H4",
+      "name": "Unnamed Horizontal Route 4",
+      "type": "horizontal",
+      "excel_row": 35,
+      "controllers": [
+        "BC-074",
+        "BC-231"
+      ],
+      "intersection_names": [
+        "대천여중",
+        "연세병원앞"
+      ]
+    },
+    {
+      "id": "H5",
+      "name": "Unnamed Horizontal Route 5",
+      "type": "horizontal",
+      "excel_row": 37,
+      "controllers": [
+        "BC-287",
+        "BC-292",
+        "BC-265",
+        "BC-056"
+      ],
+      "intersection_names": [
+        "충남해양과학고",
+        "파레스",
+        "죽정주공",
+        "주공"
+      ]
+    },
+    {
+      "id": "H6",
+      "name": "신평4R",
+      "type": "horizontal",
+      "excel_row": 38,
+      "controllers": [
+        "BC-105",
+        "BC-058"
+      ],
+      "intersection_names": [
+        "대남초",
+        "신평교"
+      ]
+    },
+    {
+      "id": "H7",
+      "name": "화산고개 3R",
+      "type": "horizontal",
+      "excel_row": 47,
+      "controllers": [
+        "BC-183",
+        "BC-300",
+        "BC-048",
+        "BC-084",
+        "BC-085",
+        "BC-293",
+        "BC-198",
+        "BC-277"
+      ],
+      "intersection_names": [
+        "됫박산",
+        "해망산",
+        "후동삼거리",
+        "요암농공단지",
+        "2대대",
+        "하이마트",
+        "보령모텔",
+        "청라중"
+      ]
+    },
+    {
+      "id": "H8",
+      "name": "원평4R",
+      "type": "horizontal",
+      "excel_row": 49,
+      "controllers": [
+        "BC-021",
+        "BC-056",
+        "BC-087"
+      ],
+      "intersection_names": [
+        "대천중",
+        "주공",
+        "동대초"
+      ]
+    },
+    {
+      "id": "H9",
+      "name": "Unnamed Horizontal Route 9",
+      "type": "horizontal",
+      "excel_row": 50,
+      "controllers": [
+        "BC-252",
+        "BC-063"
+      ],
+      "intersection_names": [
+        "정수장",
+        "현강주유소"
+      ]
+    },
+    {
+      "id": "H10",
+      "name": "주공3R",
+      "type": "horizontal",
+      "excel_row": 51,
+      "controllers": [
+        "BC-023",
+        "BC-276"
+      ],
+      "intersection_names": [
+        "한내초",
+        "청라 향천리"
+      ]
+    },
+    {
+      "id": "H11",
+      "name": "평신교차로",
+      "type": "horizontal",
+      "excel_row": 57,
+      "controllers": [
+        "BC-302",
+        "BC-080"
+      ],
+      "intersection_names": [
+        "홈플러스",
+        "평신교차로"
+      ]
+    },
+    {
+      "id": "H12",
+      "name": "Unnamed Horizontal Route 12",
+      "type": "horizontal",
+      "excel_row": 63,
+      "controllers": [
+        "BC-026",
+        "BC-205"
+      ],
+      "intersection_names": [
+        "우리공업사",
+        "삼성리조트"
+      ]
+    },
+    {
+      "id": "H13",
+      "name": "Unnamed Horizontal Route 13",
+      "type": "horizontal",
+      "excel_row": 66,
+      "controllers": [
+        "BC-258",
+        "BC-194"
+      ],
+      "intersection_names": [
+        "주산초",
+        "보건소"
+      ]
+    },
+    {
+      "id": "H14",
+      "name": "무창포IC",
+      "type": "horizontal",
+      "excel_row": 72,
+      "controllers": [
+        "BC-257",
+        "BC-160"
+      ],
+      "intersection_names": [
+        "주산정곡발명센터",
+        "남포지구대"
+      ]
+    },
+    {
+      "id": "V1",
+      "name": "원의교차로",
+      "type": "vertical",
+      "excel_column": 4,
+      "controllers": [
+        "BC-104",
+        "BC-177"
+      ],
+      "intersection_names": [
+        "원의교차로",
+        "대천항"
+      ]
+    },
+    {
+      "id": "V2",
+      "name": "머드광장진입 교차로",
+      "type": "vertical",
+      "excel_column": 11,
+      "controllers": [
+        "BC-108",
+        "BC-287"
+      ],
+      "intersection_names": [
+        "진명식당",
+        "충남해양과학고"
+      ]
+    },
+    {
+      "id": "V3",
+      "name": "궁촌4R",
+      "type": "vertical",
+      "excel_column": 55,
+      "controllers": [
+        "BC-109",
+        "BC-235",
+        "BC-160"
+      ],
+      "intersection_names": [
+        "한촌설렁탕",
+        "옥산주유소",
+        "남포지구대"
+      ]
+    },
+    {
+      "id": "V4",
+      "name": "시청3R",
+      "type": "vertical",
+      "excel_column": 57,
+      "controllers": [
+        "BC-021",
+        "BC-023",
+        "BC-194"
+      ],
+      "intersection_names": [
+        "대천중",
+        "한내초",
+        "보건소"
+      ]
+    },
+    {
+      "id": "V5",
+      "name": "Unnamed Vertical Route 5",
+      "type": "vertical",
+      "excel_column": 61,
+      "controllers": [
+        "BC-288",
+        "BC-076"
+      ],
+      "intersection_names": [
+        "코리아휠앞",
+        "요양병원"
+      ]
+    },
+    {
+      "id": "V6",
+      "name": "창동3R",
+      "type": "vertical",
+      "excel_column": 62,
+      "controllers": [
+        "BC-026",
+        "BC-239"
+      ],
+      "intersection_names": [
+        "우리공업사",
+        "운동장"
+      ]
+    },
+    {
+      "id": "V7",
+      "name": "해양경찰서입구 3R",
+      "type": "vertical",
+      "excel_column": 66,
+      "controllers": [
+        "BC-154",
+        "BC-293",
+        "BC-219",
+        "BC-205"
+      ],
+      "intersection_names": [
+        "기아자동차",
+        "하이마트",
+        "시청",
+        "삼성리조트"
+      ]
+    },
+    {
+      "id": "V8",
+      "name": "점촌4R",
+      "type": "vertical",
+      "excel_column": 70,
+      "controllers": [
+        "BC-015",
+        "BC-018"
+      ],
+      "intersection_names": [
+        "정심원",
+        "서오맨션"
+      ]
+    },
+    {
+      "id": "V9",
+      "name": "동대4R",
+      "type": "vertical",
+      "excel_column": 71,
+      "controllers": [
+        "BC-074",
+        "BC-292",
+        "BC-302",
+        "BC-163"
+      ],
+      "intersection_names": [
+        "대천여중",
+        "파레스",
+        "홈플러스",
+        "대명중"
+      ]
+    },
+    {
+      "id": "V10",
+      "name": "평신교차로",
+      "type": "vertical",
+      "excel_column": 77,
+      "controllers": [
+        "BC-231",
+        "BC-080"
+      ],
+      "intersection_names": [
+        "연세병원앞",
+        "평신교차로"
+      ]
+    },
+    {
+      "id": "V11",
+      "name": "Unnamed Vertical Route 11",
+      "type": "vertical",
+      "excel_column": 80,
+      "controllers": [
+        "BC-056",
+        "BC-198"
+      ],
+      "intersection_names": [
+        "주공",
+        "보령모텔"
+      ]
+    },
+    {
+      "id": "V12",
+      "name": "Unnamed Vertical Route 12",
+      "type": "vertical",
+      "excel_column": 84,
+      "controllers": [
+        "BC-171",
+        "BC-088"
+      ],
+      "intersection_names": [
+        "대천동사무소",
+        "센트럴파크"
+      ]
+    },
+    {
+      "id": "V13",
+      "name": "Unnamed Vertical Route 13",
+      "type": "vertical",
+      "excel_column": 90,
+      "controllers": [
+        "BC-185",
+        "BC-069"
+      ],
+      "intersection_names": [
+        "마강2리마을회관",
+        "마강들"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "47",
+  "name": "백두산 주유소삼거리",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "LCsim",
+  "controller_model": "",
+  "dat": {
+    "filename": "백두산 주유소삼거리.dat",
+    "original_filename": "58_백두산 주유소삼거리.dat",
+    "size": 61472,
+    "manufacturer_detected": "LCsim",
+    "format": "lcsim",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "58_백두산 주유소삼거리.dat"
+    ],
+    "selected": "58_백두산 주유소삼거리.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

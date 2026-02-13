@@ -1,0 +1,92 @@
+{
+  "id": "167",
+  "name": "대천or병삼)슬림형신규_기아자동차앞",
+  "alias": [],
+  "type": "단일로",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "대천or병삼)슬림형신규_기아자동차앞.dat",
+    "original_filename": "대천or병삼)슬림형신규_기아자동차앞.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-01-11",
+    "phone": "031-901-5120",
+    "phases": 4,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 120,
+        "offset": 0,
+        "splits": [
+          30,
+          30,
+          30,
+          30
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "대천or병삼)슬림형신규_기아자동차앞.dat"
+    ],
+    "selected": "대천or병삼)슬림형신규_기아자동차앞.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

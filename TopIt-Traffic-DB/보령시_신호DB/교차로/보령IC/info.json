@@ -1,0 +1,47 @@
+{
+  "id": "46",
+  "name": "보령IC",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "LCsim",
+  "controller_model": "",
+  "dat": {
+    "filename": "보령IC.dat",
+    "original_filename": "57_보령IC.dat",
+    "size": 61472,
+    "manufacturer_detected": "LCsim",
+    "format": "lcsim",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "보령IC_주기표.xls",
+    "source_file": "22_대천IC(057).xls",
+    "sheet_name": "57_대천IC(200629)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "57_보령IC.dat"
+    ],
+    "selected": "57_보령IC.dat",
+    "reason": "교차로명 유사 매칭 (유사도: 0.90, DAT: \"보령IC\" ↔ 주기표: \"대천IC\")",
+    "confidence": "medium"
+  }
+}

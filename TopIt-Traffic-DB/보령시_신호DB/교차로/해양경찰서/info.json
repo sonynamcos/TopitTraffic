@@ -1,0 +1,96 @@
+{
+  "id": "98",
+  "name": "해양경찰서",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "서돌전자",
+  "controller_model": "",
+  "dat": {
+    "filename": "해양경찰서.dat",
+    "original_filename": "164_해양경찰서입구3R 서20240827.dat",
+    "size": 14784,
+    "manufacturer_detected": "서돌전자",
+    "format": "suhdol",
+    "date_modified": "2021-01-18",
+    "phone": "031-901-5120",
+    "phases": 3,
+    "plans": [
+      {
+        "plan": 0,
+        "cycle": 120,
+        "offset": 60,
+        "splits": [
+          69,
+          25,
+          26
+        ],
+        "valid": true
+      }
+    ],
+    "lsu_active": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lsu_types": [
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량3색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색",
+      "차량4색",
+      "보행2색"
+    ]
+  },
+  "cycle_table": {
+    "filename": "해양경찰서_주기표.xlsx",
+    "source_file": "161~170.xlsx",
+    "sheet_name": "해양경찰서입구3R"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "163_해양경찰서3R20240827.dat",
+      "164_해양경찰서입구3R 서20240827.dat"
+    ],
+    "selected": "164_해양경찰서입구3R 서20240827.dat",
+    "reason": "교차로명 부분 매칭 (유사도: 0.79, DAT: \"해양경찰서\" ↔ 주기표: \"해양경찰서입구\")",
+    "confidence": "low"
+  }
+}

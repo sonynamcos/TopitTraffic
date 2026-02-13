@@ -1,0 +1,43 @@
+{
+  "id": "97",
+  "name": "축협사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "축협사거리.dat",
+    "original_filename": "162_축협사거리 20240531.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v3.5.2.0",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "162_축협사거리 20240531.dat"
+    ],
+    "selected": "162_축협사거리 20240531.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

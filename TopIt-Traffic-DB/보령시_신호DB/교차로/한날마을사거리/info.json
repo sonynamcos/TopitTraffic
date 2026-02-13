@@ -1,0 +1,43 @@
+{
+  "id": "294",
+  "name": "한날마을사거리",
+  "alias": [],
+  "type": "사거리",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "한날마을사거리.dat",
+    "original_filename": "한날마을사거리.dat",
+    "size": 16245,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v2.1",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "한날마을사거리.dat"
+    ],
+    "selected": "한날마을사거리.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "310",
+  "name": "�׽�Ʈ������",
+  "alias": [],
+  "type": "",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "�׽�Ʈ������.dat",
+    "original_filename": "Á×¸²»ï°Å¸®.dat",
+    "size": 16265,
+    "manufacturer_detected": "한진이엔씨",
+    "phases": 0,
+    "plans": [
+      {
+        "cycle": 109,
+        "offset": 111,
+        "splits": [
+          217,
+          100,
+          213,
+          129,
+          187,
+          146,
+          97,
+          99
+        ]
+      },
+      {
+        "cycle": 48,
+        "offset": 0,
+        "splits": [
+          85,
+          85
+        ]
+      },
+      {
+        "cycle": 55,
+        "offset": 15,
+        "splits": [
+          125
+        ]
+      }
+    ]
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "DAT 업로드 및 자동 등록 (요도에서)",
+      "by": "web"
+    }
+  ]
+}

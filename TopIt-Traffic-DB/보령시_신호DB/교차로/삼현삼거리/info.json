@@ -1,0 +1,47 @@
+{
+  "id": "49",
+  "name": "삼현삼거리",
+  "alias": [],
+  "type": "삼거리",
+  "manufacturer": "LCsim",
+  "controller_model": "",
+  "dat": {
+    "filename": "삼현삼거리.dat",
+    "original_filename": "60_삼현삼거리(삼현입구).dat",
+    "size": 61472,
+    "manufacturer_detected": "LCsim",
+    "format": "lcsim",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": {
+    "filename": "삼현삼거리_주기표.xls",
+    "source_file": "28_삼현삼거리(060).xls",
+    "sheet_name": "60_삼현삼거리(200629)"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "60_삼현삼거리(삼현입구).dat"
+    ],
+    "selected": "60_삼현삼거리(삼현입구).dat",
+    "reason": "교차로명 정확 매칭 (유사도: 1.00)",
+    "confidence": "high"
+  }
+}

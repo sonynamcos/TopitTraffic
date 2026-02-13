@@ -1,0 +1,43 @@
+{
+  "id": "131",
+  "name": "7시12분",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "unknown",
+  "controller_model": "",
+  "dat": {
+    "filename": "7시12분.dat",
+    "original_filename": "7시12분.dat",
+    "size": 11584,
+    "manufacturer_detected": "unknown",
+    "format": "unknown",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "7시12분.dat"
+    ],
+    "selected": "7시12분.dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  }
+}

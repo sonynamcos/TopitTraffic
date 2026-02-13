@@ -1,0 +1,60 @@
+{
+  "id": "1",
+  "name": "4명천동",
+  "alias": [],
+  "type": "기타",
+  "manufacturer": "한진이엔씨",
+  "controller_model": "",
+  "dat": {
+    "filename": "4명천동.dat",
+    "original_filename": "1-4명천동1016(명천-코아루간 삼거리).dat",
+    "size": 16245,
+    "manufacturer_detected": "한진이엔씨",
+    "format": "remote_data_v2.1",
+    "date_modified": null,
+    "phone": null,
+    "phases": 0,
+    "plans": []
+  },
+  "cycle_table": null,
+  "location": {
+    "lat": null,
+    "lng": null,
+    "address": ""
+  },
+  "routes": [],
+  "status": "정상",
+  "notes": "",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "action": "교체 상태 변경: 미시작",
+      "by": "web"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "교체 상태 변경: 진행중",
+      "by": "web"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "자동 분류 (classify.py)",
+      "by": "system"
+    }
+  ],
+  "_classification": {
+    "source_files": [
+      "1-4명천동1016(명천-코아루간 삼거리).dat"
+    ],
+    "selected": "1-4명천동1016(명천-코아루간 삼거리).dat",
+    "reason": "주기표 매칭 없음",
+    "confidence": "low"
+  },
+  "replacement": {
+    "checklist": {
+      "survey": false
+    },
+    "status": "미시작",
+    "updated": "2026-02-13"
+  }
+}
