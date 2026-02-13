@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TopIt Traffic</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { min-height: 100vh; background: #0a0a1a; color: #e2e8f0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; display: flex; align-items: center; justify-content: center; }
+  .container { text-align: center; }
+  h1 { font-size: 2rem; margin-bottom: 0.5rem; background: linear-gradient(90deg, #22c55e, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  p { color: #64748b; margin-bottom: 2rem; }
+  .cards { display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; }
+  a.card { display: block; width: 300px; padding: 32px 24px; background: #161625; border: 1px solid #2a2a4a; border-radius: 16px; text-decoration: none; color: #e2e8f0; transition: all 0.2s; }
+  a.card:hover { border-color: #22c55e; transform: translateY(-4px); box-shadow: 0 8px 32px rgba(34,197,94,0.15); }
+  .card .icon { font-size: 2.5rem; margin-bottom: 12px; }
+  .card h2 { font-size: 1.1rem; margin-bottom: 8px; }
+  .card p { font-size: 0.85rem; color: #94a3b8; margin-bottom: 0; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>TopIt Traffic</h1>
+  <p>Traffic Signal Management Tools</p>
+  <div class="cards">
+    <a class="card" href="greenwave/">
+      <div class="icon">&#x1F6A6;</div>
+      <h2>GreenWave Simulator</h2>
+      <p>Green Wave signal coordination simulator with real-time vehicle animation</p>
+    </a>
+    <a class="card" href="agent/">
+      <div class="icon">&#x1F4CA;</div>
+      <h2>Traffic Agent</h2>
+      <p>Traffic signal analysis and cycle table generation tool</p>
+    </a>
+  </div>
+</div>
+</body>
+</html>
