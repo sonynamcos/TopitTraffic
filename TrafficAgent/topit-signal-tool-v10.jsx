@@ -420,6 +420,7 @@ export default function App() {
   const [fileName, setFileName] = useState("");
   const [lsuConfig] = useState(DEFAULT_LSU.map(c=>({...c})));
   const [convName, setConvName] = useState("");
+  const [crossNo, setCrossNo] = useState("");
   const [phases, setPhases] = useState([]);
   const [editIdx, setEditIdx] = useState(-1);
   const [periods, setPeriods] = useState([]);
