@@ -1,21 +1,6 @@
 import { useState, useCallback, useRef, useEffect, useMemo } from "react";
 
-// ── Tauri 저장 다이얼로그 (Tauri 환경에서만 동작) ──
-const isTauri = typeof window !== "undefined" && !!window.__TAURI_INTERNALS__;
-let tauriSave, tauriWriteFile;
-if (isTauri) {
-  import("@tauri-apps/plugin-dialog").then(m => { tauriSave = m.save; });
-  import("@tauri-apps/plugin-fs").then(m => { tauriWriteFile = m.writeFile; });
-}
-async function saveFileWithDialog(data, defaultName, filters) {
-  if (isTauri && tauriSave && tauriWriteFile) {
-    const path = await tauriSave({ title: "파일 저장", defaultPath: defaultName, filters });
-    if (!path) return null;
-    const bytes = data instanceof Uint8Array ? data : new Uint8Array(await data.arrayBuffer());
-    await tauriWriteFile(path, bytes);
-    return path;
-  }
-  // 브라우저 폴백
+async function saveFileWithDialog(data, defaultName) {
   const blob = data instanceof Blob ? data : new Blob([data], { type: "application/octet-stream" });
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a"); a.href = url; a.download = defaultName;
