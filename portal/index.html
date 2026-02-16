@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TopitTraffic Portal</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0f172a;--card:#1e293b;--border:#334155;--text:#e2e8f0;--muted:#94a3b8}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px}
+h1{font-size:28px;font-weight:700;margin-bottom:8px;letter-spacing:-0.5px}
+h1 span{color:#60a5fa}
+.subtitle{color:var(--muted);font-size:14px;margin-bottom:48px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;max-width:900px;width:100%}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:32px 28px;text-decoration:none;color:var(--text);position:relative;overflow:hidden;transition:all .2s ease;cursor:pointer}
+.card:hover{transform:translateY(-4px);border-color:var(--accent)}
+.card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent)}
+.card-icon{font-size:36px;margin-bottom:16px;display:block}
+.card-name{font-size:18px;font-weight:700;margin-bottom:6px}
+.card-desc{font-size:13px;color:var(--muted);line-height:1.5;margin-bottom:20px}
+.card-url{font-size:12px;color:var(--accent);opacity:.7}
+.card:hover .card-url{opacity:1}
+.footer{margin-top:48px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+
+<h1><span>Topit</span>Traffic</h1>
+<p class="subtitle">교통신호제어기 통합관리 시스템</p>
+
+<div class="grid">
+
+  <a class="card" href="https://topit-traffic-web.vercel.app" target="_blank"
+     style="--accent:#60a5fa">
+    <span class="card-icon">🚦</span>
+    <div class="card-name">Traffic Web</div>
+    <div class="card-desc">교통신호 데이터 관리<br>교차로 조회 · DAT 비교 · 교체 관리</div>
+    <div class="card-url">topit-traffic-web.vercel.app</div>
+  </a>
+
+  <a class="card" href="https://greenwave-sooty.vercel.app" target="_blank"
+     style="--accent:#34d399">
+    <span class="card-icon">🟢</span>
+    <div class="card-name">GreenWave</div>
+    <div class="card-desc">녹색파 시뮬레이션<br>신호 연동 최적화 · 실시간 시각화</div>
+    <div class="card-url">greenwave-sooty.vercel.app</div>
+  </a>
+
+  <a class="card" href="https://traffic-agent-ashy.vercel.app" target="_blank"
+     style="--accent:#c084fc">
+    <span class="card-icon">🤖</span>
+    <div class="card-name">TrafficAgent</div>
+    <div class="card-desc">AI 신호 분석 도구<br>DAT 파싱 · 현시도 생성 · 주기표 작성</div>
+    <div class="card-url">traffic-agent-ashy.vercel.app</div>
+  </a>
+
+</div>
+
+<div class="footer">TopIt Traffic Systems</div>
+
+</body>
+</html>
