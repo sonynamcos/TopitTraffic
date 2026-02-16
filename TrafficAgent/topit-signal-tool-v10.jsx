@@ -1939,16 +1939,6 @@ export default function App() {
               <canvas ref={canvasRef} width={SIM_W} height={SIM_H} style={{borderRadius:10,border:"1px solid #1e293b",maxWidth:"100%",height:"auto"}} />
             </div>
 
-            {/* 범례 */}
-            <div style={{...cardStyle,display:"flex",gap:20,flexWrap:"wrap",alignItems:"center"}}>
-              <span style={{fontSize:11,color:"#64748b",fontWeight:600}}>방향별 차량색:</span>
-              {[["북(N)","#3B82F6"],["남(S)","#8B5CF6"],["동(E)","#F59E0B"],["서(W)","#10B981"]].map(([l,c])=>(
-                <div key={l} style={{display:"flex",alignItems:"center",gap:4,fontSize:11}}>
-                  <div style={{width:14,height:8,borderRadius:2,background:c}} />
-                  <span style={{color:"#94a3b8"}}>{l}</span>
-                </div>
-              ))}
-            </div>
           </div>
         )}
 
