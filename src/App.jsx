@@ -3,7 +3,6 @@ import Dashboard from './pages/Dashboard';
 import IntersectionList from './pages/IntersectionList';
 import IntersectionDetail from './pages/IntersectionDetail';
 import RouteDiagram from './pages/RouteDiagram';
-import DatCompare from './pages/DatCompare';
 import ReplacementWorkflow from './pages/ReplacementWorkflow';
 
 export default function App() {
@@ -15,7 +14,6 @@ export default function App() {
           <NavLink to="/" end>통계</NavLink>
           <NavLink to="/yodo">요도</NavLink>
           <NavLink to="/list">교차로 목록</NavLink>
-          <NavLink to="/compare">비교</NavLink>
           <NavLink to="/replace">교체</NavLink>
         </nav>
       </header>
@@ -25,7 +23,6 @@ export default function App() {
           <Route path="/yodo" element={<RouteDiagram />} />
           <Route path="/list" element={<IntersectionList />} />
           <Route path="/intersection/:id" element={<IntersectionDetail />} />
-          <Route path="/compare" element={<DatCompare />} />
           <Route path="/replace" element={<ReplacementWorkflow />} />
         </Routes>
       </main>
